@@ -1,0 +1,38 @@
+/*-- scss:functions --*/
+
+
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+#index-qmd {
+  background: url("images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-119.jpg");
+  background-size: cover;     /* scale to cover full screen */
+  background-attachment: fixed; /* stay fixed while scrolling */
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#index-qmd::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.4); /* white overlay with 60% opacity */
+  z-index: -1; /* stay behind content */
+}
+
+/* On very small screens, allow scroll instead of fixed */
+@media (max-width: 450px) {
+  .homepage body {
+    background-image: url("images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-119.jpg");
+    background-size: contain;
+    background-attachment: scroll;  /* better performance on mobile */
+    background-color: whitesmoke;
+  }
+}
+
+
+

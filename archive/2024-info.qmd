@@ -1,0 +1,96 @@
+---
+title: "Overview"
+format:
+  html:
+    theme: [cyborg, 2024-custom.scss]
+---
+
+
+:::::: {.column-page-inset}
+
+::: {.larger-text}
+Can you predict the next <span class="animated-word">pandemic</span>? 
+:::
+::: {.subtitle-text}
+Health Data Science Datathon 2024 | UNSW Faculty of Medicine and Health
+:::
+
+::::::
+
+<br>
+
+:::::: {.column-page-inset}
+
+<video autoplay loop muted playsinline width="100%" style="border-radius: 25% 25% 25% 25%;">
+ <source src="../images/AdobeStock_340747302.mp4" style="max-width: 100%;"></source>
+</video>
+
+::::::
+
+<br>
+
+## What is it?
+
+A two-day datathon where teams will work together to analyse real-world infectious disease monitoring data. Participants will develop a full data science pipeline with prizes awarded for the best submission. 
+
+## When is it?
+
+-   **Friday 29 November**, 3pm-4pm: Online introductory session
+<div style = "font-size: 0.8em; font-weight:100;">
+_Recordings will be made available for people who can't make this session, although attendance is strongly encouraged_
+</div>
+
+- **Thursday 5th and Friday 6th December**, 9AM--5PM: Main event
+
+
+## Who can participate?
+
+* UNSW students interested in analysing health data.
+* Enrol as a team of 4 or register individually to be placed on a team.
+
+## Is it online or in-person?
+
+The event will be in-person at UNSW, however there is also capacity for a limited number of online teams to compete, for those who wish to participate but can not make it to campus. The registration form (linked below) includes an option to indicate whether you wish to attend online or in-person. 
+
+A limited number of travel bursaries of up to $300 are available to support participants who wish to attend the event but are travelling from outside of Sydney. The registration form (linked below) includes an option to indicate whether you wish to apply for a travel bursary. Applicants will be asked to provide their enrolment status and the destination from where they will be travelling from.  
+
+## What skills do I need?
+
+The approach to the datathon challenge is open ended---it could be a sophisticated epidemic prediction model or a simple data summary. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.
+
+## The data
+
+Participants will analyse real-world data on infectious disease alerts from [EPIWATCH$^®$](https://www.epiwatch.org/about), UNSW’s AI-driven open-source outbreak observatory. Founded by global leader in infectious diseases, Professor Raina MacIntyre, EPIWATCH$^®$ provides a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting. 
+
+## The datathon
+
+> To emulate real-time surveillance we will release daily data in 5 minute increments: your aim is to notify authorities of the next outbreak before it gets out of control.
+
+### Pre-event: data release and online information session (Friday 29th November)
+
+This is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential analytic strategies.   
+
+### The main event (Thursday 5th and Friday 6th December)
+
+You will work with team to develop and implement a data science pipeline to analyse the EPIWATCH$^®$ data with the aim of predicting infectious disease outbreaks. Your approach could be a statistical or machine learning model, a data visualisation, or even a dashboard combining multiple insights. On the second day you will have a chance to test your approach on new data. To emulate real-time surveillance we will release daily data in 5 minute increments: your aim is to notify authorities of the next outbreak before it gets out of control. There is no restriction on choice of software or analytic approach. At the end of the day, each team will present their research question and solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts. Selected submissions may be included in a showcase and published on the CBDRH website or other suitable platform. 
+
+Lunch and morning tea and coffee will be provided for in-person participants. Dietary requirements can be noted in the registration form. 
+
+## Registration
+
+ <span class="animated-word">Registration is now closed</span>.
+
+
+## Contact
+
+For questions, information or accessibility queries please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a> from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the [registration form](https://forms.office.com/r/K2RQZeb1VF). 
+
+::: {.oscar}
+
+<h2>Menú del día</h2>
+
+* Gambas Pil Pil
+* Patatas Bravas
+* Helados
+:::
+

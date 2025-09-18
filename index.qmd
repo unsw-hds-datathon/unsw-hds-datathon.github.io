@@ -1,0 +1,49 @@
+---
+format:
+  html:
+    theme: [custom.scss]
+toc: false
+---
+
+<style>
+
+  body {
+    background: url("images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-119.jpg");
+    background-size: cover;     /* scale to cover full screen */
+    background-attachment: fixed; /* stay fixed while scrolling */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  
+  .hero {
+    text-align: center;
+    color: black;                  /* text color */
+    font-family: "Helvetica Neue", sans-serif;
+    padding: 6rem 2rem;            /* space around */
+    font-weight: 700;
+    line-height: 1.3;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;               /* main headline */
+    margin-bottom: 1rem;
+  }
+  
+  .hero h3 {
+    font-size: 2rem;              /* subtitle */
+    font-weight: 400;
+    opacity: 0.9;
+  }  
+  
+</style>
+
+::: {.hero}
+
+# UNSW Health Data Science Datathon
+
+### An annual datathon where student teams work together to analyse real-world health data
+
+:::
+

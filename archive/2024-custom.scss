@@ -1,0 +1,76 @@
+/*-- scss:functions --*/
+
+
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+/* Media query for narrow screens */
+@media (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
+.flex-column-1 {
+  flex: 1;
+}
+
+.flex-column-2 {
+  flex: 3;
+}
+
+.larger-text {
+  font-size: 3.5em;
+  font-weight: 800;
+  line-height: 1.2;
+  color: $link-color;
+  text-align: center;
+}
+
+.subtitle-text {
+  font-size: 1.8em;
+  font-weight: 300;
+  line-height: 1.2;
+  color: lighten($link-color, 30%);
+  text-align: center;
+}
+
+blockquote {
+  margin: 5%;
+  border-left: 5px solid ;
+  font-style: italic;
+  font-size: 1.2em !important;
+  color: $link-color !important;
+}
+
+@keyframes colorChange {
+  0% { color: $link-color; }
+  50% { color: #fe010c; }
+  100% { color: $link-color; }
+}
+
+.animated-word {
+  animation: colorChange 6s infinite; /* 3s for the duration, infinite looping */
+}
+
+.oscar {
+  color: $body-bg;
+}
+
+.oscar > h2 {
+  color: $body-bg;
+}
+
+.oscar > p {
+  color: $body-bg;
+}
+
+.quarto-title-block {
+  display: none;
+}

@@ -1,0 +1,92 @@
+---
+title: "Overview"
+format:
+  html:
+    theme: [solar, 2023-custom.scss]
+---
+
+![](../images/artificial-intelligence-gfa19cdaa6_1920.jpg)
+
+::: {style="font-size:0.6em;"}
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4389372" target="_blank">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4389372" target="_blank">Pixabay</a>
+:::
+
+## What is it?
+
+A full-day datathon where teams will work together to analyse a HIV medications dataset. Participants will develop a full data science pipeline---from research question to analytic output---with prizes awarded for the best submission. 
+
+## When is it?
+
+-   **Friday 19th May**, 3pm-5pm: Online introductory session
+<div style = "font-size: 0.8em; font-weight:100;">
+_Recordings will be made available for people who can't make this session, although attendance is strongly encouraged_
+</div>
+
+-   **Friday 26th May**, 8am-5pm: Main event
+
+## Who can participate?
+
+* UNSW Health Data Science students and graduates. 
+* UNSW Clinical Artificial Intelligence students and graduates. 
+
+## Is it online or in-person?
+
+The event will be in-person at UNSW, however there is also capacity for a limited number of online teams to compete, for those who wish to participate but can not make it to campus. The EOI form (linked below) includes an option to indicate whether you wish to attend online or in-person. 
+
+A limited number of travel bursaries of up to $300 are available to support participants who wish to attend the event but are travelling from outside of Sydney. The EOI form (linked below) includes an option to indicate whether you wish to apply for a travel bursary. Applicants will be asked to provide their enrolment status and the destination from where they will be travelling from.  
+
+## Where is it?
+
+The UNSW Kensington Campus, [Electrical Engineering Building (K-G17)](https://www.learningenvironments.unsw.edu.au/physical-spaces/electrical-engineering-bldg), Room G03
+
+<iframe width="100%" height="500px" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" src="https://use.mazemap.com/embed.html#v=1&config=unsw&zlevel=1&center=151.231616,-33.917484&zoom=17&campusid=111&sharepoitype=poi&sharepoi=1000919795&utm_medium=iframe" allow="geolocation"></iframe>
+<a href="https://www.mazemap.com/">Map by MazeMap</a>
+
+Room G03 is wheelchair accessible and ventilated with air conditioning. More information is available online [here](https://www.learningenvironments.unsw.edu.au/physical-spaces/electrical-engineering-bldg/k-g17-g03-electrical-engineering-g03).
+
+See the UNSW website for more information on how to get to and from campus: [inside.unsw.edu.au/campus-life/travel-options-get-and-unsw](https://www.inside.unsw.edu.au/campus-life/travel-options-get-and-unsw) 
+
+	
+## The data
+
+Participants will use a synthetic dataset containing detailed drug regimen information and viral loads for patients with Human Immunodeficiency Virus (HIV). Currently, the only effective treatment for HIV is antiretroviral therapy, which involves life-long administration of combinations of these drugs. This medication stops the virus from multiplying by targeting different stages of viral replication. However, continual use of the same combinations of drugs may lead to the formation of drug-resistant viral strains, rendering similar combinations of drugs ineffective.
+
+## The datathon
+
+### The online introductory session (Friday 19th May)
+
+This is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential research questions. Guest experts will give introductory talks on: 
+
+1. The Antiretroviral Therapy in HIV synthetic dataset 
+1. HIV medications and potential research questions
+
+Team membership will be confirmed before the online introductory event and teams will be given a mini-activity to complete in the week leading up to the main event. 
+
+
+### The main event (Friday 26th May)
+
+Participants will work together in teams of four to propose a research question and develop and implement a data science pipeline to address the research question. There is no restriction on choice of software or type of research questions. The final product could be an interactive visualisation, a predictive analysis, a risk factor analysis, time series analysis, etc. Experts in HIV medications and data analysis will be in the room to help participants develop their research question and solution. At the end of the day, each team will present their research question and solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts. Selected submissions may be included in a showcase and published on the CBDRH website or other suitable platform. 
+
+Lunch and morning tea and coffee will be provided for in-person participants. Dietary requirements can be noted in the EOI form. 
+
+## Registration
+
+To register, fill out the [expression of interest form](https://forms.office.com/r/Ya4dL7iiPM) by Friday ~~31st March~~ **7th April**. Registration is for individuals and teams will be formed by the organisers. If you want to be on a team with one or more other students, please note this on the form. Places are limited.
+
+## Contact
+
+For questions, information or accessibility queries please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a>. Accessibility requirements can also be noted in the EOI form. 
+
+::: {.oscar}
+
+<h2>Menú del día</h2>
+<li>
+<ol>Paella</ol>
+<ol>Pan con tomate</ol>
+<ol>Churros</ol>
+</li>
+
+
+:::
+
+

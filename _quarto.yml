@@ -1,0 +1,64 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "UNSW Health Data Science Datathon"
+  image: "social-preview.png"
+  favicon: images/favicon.ico
+  open-graph:
+    title: "UNSW Health Data Science Datathon"
+    description: "An annual datathon where student teams work together to analyse real-world health data."
+  twitter-card:
+    title: "UNSW Health Data Science Datathon"
+    description: "An annual datathon where student teams work together to analyse real-world health data."
+  site-url: https://unsw-hds-datathon.github.io
+  repo-url: https://github.com/unsw-hds-datathon
+  back-to-top-navigation: true
+  page-navigation: true
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+        icon: house
+      - text: Code of conduct
+        icon: heart
+        href: code-of-conduct.qmd
+      - text: "Archive"
+        icon: code
+        menu:
+          - text: "2024"
+            href: archive/2024-review.qmd
+            icon: virus
+          - text: "2023"
+            href: archive/2023-review.qmd
+            icon: capsule-pill
+
+  sidebar:
+
+    - title: "2024"
+      contents:
+      - archive/2024-review.qmd
+      - archive/2024-info.qmd
+      - archive/2024-data.qmd
+      - archive/2024-judging-criteria.qmd
+
+    - title: "2023"
+      contents:
+      - archive/2023-review.qmd
+      - archive/2023-info.qmd
+      - archive/2023-data.qmd
+      - archive/2023-judging-criteria.qmd
+
+  page-footer:
+    center: © UNSW 2025
+
+format:
+  html:
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+    footnotes-hover: true
+
+
+

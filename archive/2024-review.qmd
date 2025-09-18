@@ -1,0 +1,179 @@
+---
+title: "Highlights"
+lightbox: true
+link-external-icon: false
+format:
+  html:
+    theme: [cyborg, 2024-custom.scss]
+---
+
+::: column-screen-inset
+![Analysing the EPIWATCH$^®$ data](../images/Datathon2024_UNSW_Credit_CassandraHannagan-15-cropped.jpg)
+:::
+
+## Key figures
+
+<div style="font-size:1.2em;">
+
+-   **51** Students 👩‍🎓 from **12** different UNSW schools and research centres 🏫 
+
+-   **13** Teams 🤝
+
+-   **70,000** rows of EPIWATCH$^®$ surveillance data 📈
+  
+-   **Two** EPIWATCH$^®$ infectious disease experts 🦠
+
+-   **One** winning team 🌟
+
+</div>
+
+## Overview of the event
+
+
+The second UNSW Health Data Science Datathon brought together more than fifty UNSW students across thirteen teams on 5-6 December, 2024. Participants dived into [EPIWATCH$^®$](2024-data.qmd) surveillance data, tackling the challenge of designing a data science pipeline to predict emerging infectious disease outbreaks.
+
+![ UNSW students in action 💻 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](../images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-5.jpg)
+
+Two infectious disease experts from the EPIWATCH project were on hand throughout the event to guide the teams. They provided invaluable insights, answered questions, and offered feedback to help participants refine their approaches to analysing the data and crafting effective surveillance pipelines.
+
+![ Presenting ideas to infectious disease experts. 💛 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-83.jpg) 
+
+
+The datathon wasn't just about coding and data; it was also about enjoyment and camaraderie. The teams enjoyed good food and had loads of fun. 
+
+![ Feeding the brain! <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](../images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-58.jpg) 
+
+On Day 2, finalist teams presented their work to a panel of judges. 
+
+![Students presenting their work 💛 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](../images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-202.jpg)
+
+
+## Announcing the winners
+
+![**Special mention:** Vaibhav Jha, Palak Kapuriya, Siddharth Choudhury, Professor David Simar (Deputy Dean Research Operations - Faculty of Medicine and Health), Vansh Jain, <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](../images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-294.jpg)
+
+
+![**Runners-up** [L-R]: Usha Kaur Khalsa, Ida Made Hrisikesa Wiweka, Professor David Simar (Deputy Dean Research Operations - Faculty of Medicine and Health), Zhiyuan Wang, (team member Haley Li not pictured) <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](../images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-296.jpg)
+
+![**Runners-up** [L-R]: Christopher Leung (online), Harshita Punjabi, Neil Dadhich, Arnav Raina, Arya Ahluwalia <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](../images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-300.jpg)
+
+
+![**Winners** [L-R]: Eleanore Williams, Damian O'Neil, Lisa Sharwood, Brianna Argall <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](../images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-302.jpg)
+
+
+Congratulations to all the participants! 
+
+## The data
+
+The [EPIWATCH$^®$](2024-data.qmd) infectious disease surveillance system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated and non-curated online news sources, including the WHO, CDC and Google News. 
+
+Each record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original online article. 
+
+![](../images/example-outbreak.gif)
+
+<div style="font-size: 0.8em">
+EPIWATCH$^®$ data provides an early warning system---the canary in the coal mine for the next outbreak. In this example, media reports of unexplained pneumonia foreshadowed a Legionnaires' Disease outbreak in Argentina, showcasing its power to detect outbreaks before they fully unfold.
+</div>
+
+
+## What our participants said
+
+![](../images/2024-review-stars.png)
+
+
+::: {.grid}
+
+::: {.g-col-6}
+
+<div style="color:#289a92; font-style: italic; font-size: 1.2em; text-align: right; opacity: 0.6;">Based on your experience at the datathon, would you recommend it to other students?</div>
+
+:::
+
+::: {.g-col-1}
+
+:::
+
+::: {.g-col-5}
+<div style="color:#289a92;">
+
+<div style="font-size:4em; margin:-20px; padding:0px;">100%</div> <div style="font-size:1em; margin:0px">AGREE</div>
+
+</div>
+
+:::
+
+
+
+:::
+<br>
+
+::: {.grid}
+
+::: {.g-col-9}
+> _I very much enjoyed working with my team members to brainstorm how to convert complex and messy datasets into well-organised formats for data visualisation._
+
+:::
+
+::: {.g-col-3}
+
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-3}
+
+:::
+
+::: {.g-col-9}
+> _I particularly enjoyed working with my team and hearing others' approaches._
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-1}
+
+:::
+
+::: {.g-col-8}
+> _the catering was amazing!!_
+
+:::
+
+::: {.g-col-2}
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-2}
+
+:::
+
+::: {.g-col-10}
+> _I loved every part of this experience and really appreciate the opportunities you have provided us all as students, to participate in such a fun, challenging and brain stimulating event._
+:::
+
+:::
+
+
+## Picture gallery
+
+Explore the images from the day below. Credit for all images to [Cassandra Hannagan](https://www.cassandrahannagan.com/). 
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));grid-gap: .5em; inline-size: 100%;"}
+```{r, results='asis', echo=FALSE, warning=FALSE, message=FALSE}
+nPics <- length(list.files(here::here("images/LoRes2024")))
+
+for (i in 1:nPics) {
+  cat("![](../images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-", i, ".jpg){group='my-gallery'}\n\n", sep='')
+}
+```
+:::

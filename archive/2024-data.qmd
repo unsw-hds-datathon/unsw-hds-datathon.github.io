@@ -1,0 +1,29 @@
+---
+title: "Data"
+bibliography: ../references.bib
+suppress-bibliography: true
+format:
+  html:
+    theme: [cyborg, 2024-custom.scss]
+---
+
+![](../images/epiwatch-logo.svg)
+
+## EPIWATCH$^®$
+
+You will be analysing the [EPIWATCH$^®$](https://www.epiwatch.org/reports) dataset.
+
+EPIWATCH$^®$ is an AI-based system that harnesses open-source data to generate automated early warnings of epidemics worldwide. The system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated and non-curated online news sources, including the WHO, CDC and Google News. 
+
+Each record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original online article. 
+
+You can learn more about EPIWATCH$^®$ at [epiwatch.org/products](https://www.epiwatch.org/products) and read about the potential for AI-based digital surveillance to act as automated early warning systems in @macintyre2023artificial. 
+
+
+## Initial data release
+
+The EPIWATCH$^®$ data will be released on Friday 29th November, one week ahead of the datathon. 
+
+## Live updates
+
+To simulate the experience of real-time surveillance, the dataset will be updated with an additional day of data every 5 minutes over the course of 90 minutes on Day 2 of the datathon. Updates will be appended to the initial release and available via the same link.
