@@ -1,0 +1,47 @@
+---
+title: "Schedule"
+---
+
+::: {.callout-note}
+## Note
+
+The schedule is subject to change. A Microsoft Teams Meeting link will be circulated in advance of the information session.
+:::
+
+
+## Pre-event: data release and online information session (Online only)
+
+#### *Friday 5 December, 2025: 15:00 - 16:00 AEST*
+
+|     |     |
+|--|-----|
+| 15:00 - 15:10    | Welcome and introductions   |
+| 15:10 - 15:35    | The Australia and New Zealand Hip Fracture Registry Data |
+| 15:35 - 15:45    | Datathon rules and plan for the day |
+| 15:45 - 16:00    | Questions  |
+
+## Datathon (In-person at UNSW)
+
+#### *Day 1: Thursday 11 December 2025*
+
+|  |     |
+|--|-----|
+| 08:30 - 09:00    | Registration     |
+| 09:00 - 09:30    | Welcome and introduction to domain experts |
+| 09:30 - 12:00    | Teams work on project |
+| 12:00 - 13:00    | Lunch |
+| 13:00 - 17:00    | Teams work on project |
+| 17:00 - 19:00    | Social at the Roundhouse |
+
+<br>
+
+#### *Day 2: Friday 12 December 2025*
+
+|  |     |
+|--|-----|
+| 09:00 - 12:00    | Teams work on project |
+| 12:00 - 12:30    | Lunch |
+| 12:30 - 14:00    | Teams work on project |
+| 14:00 - 16:00    | Presentations (7 mins presentation + 3 mins questions per team) |
+| 16:00 - 16:30    | Jury deliberation and drinks reception |
+| 16:30 - 17:00    | Prize-giving and closing |

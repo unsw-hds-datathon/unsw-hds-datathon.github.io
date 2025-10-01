@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "data.html#the-problem",
+    "href": "data.html#the-problem",
+    "title": "About the data",
+    "section": "The Problem",
+    "text": "The Problem\nThe risk of falls and fractures increases with age. Each year, approximately 19,000 patients in Australia and 4,000 patients in New Zealand present with a new hip fracture. These presentations are projected to increase in the foreseeable future, as are the associated costs to individual patients, their families, the community and the healthcare system."
+  },
+  {
+    "objectID": "data.html#the-registry",
+    "href": "data.html#the-registry",
+    "title": "About the data",
+    "section": "The Registry",
+    "text": "The Registry\nThe Australian and New Zealand Hip Fracture Registry (ANZHFR) is a clinical quality registry that collects data about older people admitted to hospital with a broken hip in Australia and New Zealand. The registry is managed by a group clinicians and experts in the field with representation from a number of key professional organisations."
+  },
+  {
+    "objectID": "data.html#purpose",
+    "href": "data.html#purpose",
+    "title": "About the data",
+    "section": "Purpose",
+    "text": "Purpose\nThe ANZHFR is designed to allow hospitals to audit the care they provide against key markers of safe, high quality care. The data can then be used to improve clinical performance, examine national trends, advocate for better clinical care and ultimately optimise patient outcomes"
+  },
+  {
     "objectID": "code-of-conduct.html",
     "href": "code-of-conduct.html",
     "title": "Code of Conduct",
@@ -234,6 +255,13 @@
     ]
   },
   {
+    "objectID": "judging-criteria.html",
+    "href": "judging-criteria.html",
+    "title": "Judging criteria",
+    "section": "",
+    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nResearch framing\nAnalytic approach\nCommunication of results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nResearch framing\n⅓\n\nUnderstanding of question\nConnection to context\nFeasibility and originality\n\n\n\nAnalytic approach\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nCommunication of results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nTranslation potential\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "archive/2023-review.html",
     "href": "archive/2023-review.html",
     "title": "Highlights",
@@ -406,9 +434,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "UNSW Health Data Science Datathon",
+    "title": "The UNSW Health Data Science Datathon 2025",
     "section": "",
-    "text": "UNSW Health Data Science Datathon\n\nAn annual datathon where student teams work together to analyse real-world health data\n\n\n\n\n\n Back to top"
+    "text": "The UNSW Health Data Science Datathon 2025\nThursday 11 - Friday 12 December | UNSW Campus | Team registration open\n\n\n\n\nEach year, approximately 19,000 patients in Australia and 4,000 patients in New Zealand present with a new hip fracture\n\n\n\n\nThese presentations are expected to increase in the foreseeable future, as our populations age\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhen patients are admitted to hospital with a broken hip they are entered into the The Australian and New Zealand Hip Fracture Registry (ANZHFR). \n\n\n\n\nThe ANZHFR data can then be used to improve clinical performance, examine national trends, advocate for better clinical care and ultimately optimise patient outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "2025-info.html",
@@ -416,5 +444,26 @@
     "title": "UNSW Health Data Science Datathon",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Note\n\n\n\nThe schedule is subject to change. A Microsoft Teams Meeting link will be circulated in advance of the information session."
+  },
+  {
+    "objectID": "schedule.html#pre-event-data-release-and-online-information-session-online-only",
+    "href": "schedule.html#pre-event-data-release-and-online-information-session-online-only",
+    "title": "Schedule",
+    "section": "Pre-event: data release and online information session (Online only)",
+    "text": "Pre-event: data release and online information session (Online only)\n\nFriday 5 December, 2025: 15:00 - 16:00 AEST\n\n\n\n\n\n\n\n15:00 - 15:10\nWelcome and introductions\n\n\n15:10 - 15:35\nThe Australia and New Zealand Hip Fracture Registry Data\n\n\n15:35 - 15:45\nDatathon rules and plan for the day\n\n\n15:45 - 16:00\nQuestions"
+  },
+  {
+    "objectID": "schedule.html#datathon-in-person-at-unsw",
+    "href": "schedule.html#datathon-in-person-at-unsw",
+    "title": "Schedule",
+    "section": "Datathon (In-person at UNSW)",
+    "text": "Datathon (In-person at UNSW)\n\nDay 1: Thursday 11 December 2025\n\n\n\n08:30 - 09:00\nRegistration\n\n\n09:00 - 09:30\nWelcome and introduction to domain experts\n\n\n09:30 - 12:00\nTeams work on project\n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 17:00\nTeams work on project\n\n\n17:00 - 19:00\nSocial at the Roundhouse\n\n\n\n\n\n\nDay 2: Friday 12 December 2025\n\n\n\n\n\n\n\n09:00 - 12:00\nTeams work on project\n\n\n12:00 - 12:30\nLunch\n\n\n12:30 - 14:00\nTeams work on project\n\n\n14:00 - 16:00\nPresentations (7 mins presentation + 3 mins questions per team)\n\n\n16:00 - 16:30\nJury deliberation and drinks reception\n\n\n16:30 - 17:00\nPrize-giving and closing"
   }
 ]
