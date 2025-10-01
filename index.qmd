@@ -6,7 +6,6 @@ format:
       narrative-text-color-overlay: "#a3a3a3"
       section-background-color: black
       narrative-background-color-overlay: transparent
-      narrative-font-size: '1.4rem'
       narrative-overlay-max-width: '60%'
       
     theme: [cyborg, custom.scss]
