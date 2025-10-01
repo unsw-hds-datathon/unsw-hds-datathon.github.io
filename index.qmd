@@ -6,7 +6,7 @@ format:
       narrative-text-color-overlay: "#a3a3a3"
       section-background-color: black
       narrative-background-color-overlay: transparent
-      narrative-font-size: '2rem'
+      narrative-font-size: '1.4rem'
       narrative-overlay-max-width: '60%'
       
     theme: [cyborg, custom.scss]
@@ -16,7 +16,7 @@ format:
 
 _Thursday 11 - Friday 12 December | UNSW Campus | Team registration [open](data.qmd)_
 
-::::: {.cr-section layout="overlay-center"}
+::::: {.cr-section layout="overlay-left"}
  
 Each year, approximately 19,000 patients in Australia and 4,000 patients in New Zealand present with a new hip fracture @cr-image1
 
