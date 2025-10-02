@@ -7,9 +7,27 @@ format:
       section-background-color: black
       narrative-background-color-overlay: transparent
       narrative-overlay-max-width: '60%'
-      
-    theme: [cyborg, custom.scss]
+      narrative-outer-margin: '1%'
+    theme: [slate, custom.scss]
 ---
+
+
+
+::::: {.cr-section layout="overlay-right"}
+
+@cr-image2
+
+<div class="scroll-indicator">
+  <span class="arrow"></span>
+</div>
+
+::: {#cr-image2}
+<video autoplay loop muted playsinline width="100%" style="border-radius: 1px;">
+ <source src="images/AdobeStock_1634046525.mov" style="max-width: 100%;"></source></video>
+:::
+
+:::::
+
 
 # The UNSW Health Data Science Datathon 2025 
 
@@ -21,28 +39,17 @@ Each year, approximately 19,000 patients in Australia and 4,000 patients in New 
 
 These presentations are expected to increase in the foreseeable future, as our populations age
 
+When patients are admitted to hospital with a broken hip they are entered into the The Australian and New Zealand Hip Fracture Registry (ANZHFR)
+
+The ANZHFR data can then be used to improve clinical performance, examine national trends, advocate for better clinical care and ultimately optimise patient outcomes
+
 ::: {#cr-image1}
-![](images/AdobeStock_280347585_Preview.jpeg)
+![](images/AdobeStock_280347585.jpeg)
 :::
 
 :::::
 
 
-
-::::: {.cr-section layout="overlay-right"}
-
-@cr-image2
-
-<span class="scene2">When patients are admitted to hospital with a broken hip they are entered into the The Australian and New Zealand Hip Fracture Registry (ANZHFR). </span>
-
-<span class="scene2">The ANZHFR data can then be used to improve clinical performance, examine national trends, advocate for better clinical care and ultimately optimise patient outcomes</span>
-
-::: {#cr-image2}
-<video autoplay loop muted playsinline width="100%" style="border-radius: 1px;">
- <source src="images/AdobeStock_1634046525_Video_HD_Preview.mov" style="max-width: 100%;"></source></video>
-:::
-
-:::::
 
 
 
