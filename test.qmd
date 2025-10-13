@@ -1,0 +1,12 @@
+---
+format:
+  closeread-html:
+    remove-header-space: true
+---
+
+::: {.column-screen}
+
+<video autoplay loop muted playsinline width="100%" style="border-radius: 1px;">
+ <source src="images/AdobeStock_1634046525_trim3.mp4" style="max-width: 100%;"></source></video>
+
+:::

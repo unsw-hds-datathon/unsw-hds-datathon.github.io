@@ -12,21 +12,16 @@ format:
 ---
 
 
-
-::::: {.cr-section layout="overlay-right"}
-
-@cr-image2
+::: {.column-screen}
 
 <div class="scroll-indicator">
   <span class="arrow"></span>
 </div>
 
-::: {#cr-image2}
-<video autoplay loop muted playsinline width="100%" style="border-radius: 1px;">
- <source src="images/AdobeStock_1634046525.mov" style="max-width: 100%;"></source></video>
-:::
 
-:::::
+<video autoplay loop muted playsinline width="100%" style="border-radius: 1px;">
+ <source src="images/AdobeStock_1634046525_trim3.mp4" style="max-width: 100%;"></source></video>
+:::
 
 
 # The UNSW Health Data Science Datathon 2025 
