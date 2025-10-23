@@ -1,7 +1,7 @@
 ---
 format:
   html:
-    theme: [darkly, 025-custom.scss]
+    theme: [darkly]
 ---
 
 ![](images/pelvis-scan-canva.png)

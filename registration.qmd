@@ -1,0 +1,24 @@
+---
+format:
+  html:
+    theme: [darkly]
+---
+
+# Registration
+
+* You must enter the datathon in a team of 4 to 5 people
+* **All** team members must register
+* Decide on a team name in advance---this is required to register and will be used to link you to your team mates. 
+* Register [here](rte.ie)
+
+
+# Changes of registeration
+
+If one or more team members can no longer attend you can either:
+
+(i) **Swap** out with a new member. The new team member must fill in the registration form. The departing team member should email the organisers at [m.hanly@unsw.edu.au](malto:m.hanly@unsw.edu.au) to withdraw. 
+
+(ii) **Withdraw** the entire team from the datathon. Email the organisers at [m.hanly@unsw.edu.au](malto:m.hanly@unsw.edu.au) to withdraw all team members. 
+
+
+

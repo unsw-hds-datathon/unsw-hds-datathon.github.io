@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7a137e36789903fe9a5dc0a0d82a383c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-14632f95f191eabe7a0e10f2ef6fb3ce.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script src="site_libs/quarto-contrib/intersection-observer-polyfill-1.0.0/intersection-observer.js"></script>
 <script src="site_libs/quarto-contrib/scrollama-3.2.0/scrollama.min.js"></script>
 <script src="site_libs/quarto-contrib/closeread-0.1.0/closeread.js"></script>
@@ -108,6 +108,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./registration.html"> <i class="bi bi-person-add" role="img">
+</i> 
+<span class="menu-text">Registration</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./schedule.html"> <i class="bi bi-clock" role="img">
 </i> 
 <span class="menu-text">Schedule</span></a>
@@ -163,11 +168,11 @@ ul.task-list li input[type="checkbox"] {
       <!-- user-provided yaml closeread style options -->
       <style>
         :root {
-          --cr-narrative-overlay-max-width: 60%;
---cr-narrative-text-color-overlay: #a3a3a3;
+          --cr-section-background-color: black;
 --cr-narrative-outer-margin: 1%;
+--cr-narrative-overlay-max-width: 60%;
 --cr-narrative-background-color-overlay: transparent;
---cr-section-background-color: black;
+--cr-narrative-text-color-overlay: #a3a3a3;
         }
       </style>
     
@@ -176,17 +181,34 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="column-screen">
-<div class="scroll-indicator">
-<p><span class="arrow"></span></p>
-</div>
-<video autoplay="" loop="" muted="" playsinline="" width="100%" style="border-radius: 1px;">
-<source src="images/AdobeStock_1634046525_trim3.mp4" style="max-width: 100%;">
 
-</video>
+<div class="video-container">
+
+  <video autoplay="" loop="" muted="" playsinline="" width="100%">
+    <source src="images/AdobeStock_1634046525_trim3.mp4" type="video/mp4">
+  </video>
+
+  <div class="video-overlay">
+    <h2 class="anchored">UNSW Health Data Science Datathon</h2>
+    <p>Thursday 11 – Friday 12 December 2025</p>
+    <div class="button-group">
+      <a href="#details" class="info-button">
+        <i class="bi bi-info-circle"></i> Details
+      </a>
+      <a href="./registration.html" class="register-button">
+        <i class="bi bi-person-plus"></i> Register here
+      </a>
+    </div>
+  </div>
+  
+  
+  <div class="scroll-indicator">
+    <span class="arrow"></span>
+  </div>
+
 </div>
-<section id="the-unsw-health-data-science-datathon-2025" class="level1">
-<h1>The UNSW Health Data Science Datathon 2025</h1>
-<p><em>Thursday 11 - Friday 12 December | UNSW Campus | Team registration <a href="./data.html">open</a></em></p>
+
+</div>
 <div class="cr-section cr-column-screen overlay-left">
 <div class="narrative-col">
 <div class="trigger new-trigger" data-focus-on="cr-image1">
@@ -220,7 +242,6 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

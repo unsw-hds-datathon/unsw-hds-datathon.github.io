@@ -21,16 +21,19 @@ website:
       - text: "Home"
         href: index.qmd
         icon: house
-      - text: Schedule
+      - text: "Registration"
+        icon: person-add
+        href: registration.qmd
+      - text: "Schedule"
         icon: clock
         href: schedule.qmd
-      - text: Data
+      - text: "Data"
         icon: code
         href: data.qmd
-      - text: Judging Criteria
+      - text: "Judging Criteria"
         icon: trophy
         href: judging-criteria.qmd
-      - text: Code of conduct
+      - text: "Code of conduct"
         icon: heart
         href: code-of-conduct.qmd
       - text: "Archive"
