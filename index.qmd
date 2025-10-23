@@ -30,7 +30,7 @@ format:
         <i class="bi bi-info-circle"></i> Details
       </a>
       <a href="registration.qmd" class="register-button">
-        <i class="bi bi-person-plus"></i> Register here
+        <i class="bi bi-person-plus"></i> Register
       </a>
     </div>
   </div>

@@ -72,26 +72,30 @@
   position: relative;
   display: inline-block;
   width: 100%;
+  height: auto;
 }
 
 .video-container video {
   width: 100%;
   height: auto;
   border-radius: 1px;
+  object-fit: cover;
 }
 
+/* Overlay stays centered */
 .video-overlay {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.45); /* semi-transparent dark background */
+  background-color: rgba(0, 0, 0, 0.45);
   color: white;
   padding: 1.5rem 2rem;
   border-radius: 8px;
 }
 
+/* Buttons and text (unchanged from yours) */
 .video-overlay h2 {
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
@@ -111,14 +115,14 @@
 }
 
 .button-group a {
-  flex: 1;                 /* Makes all buttons take equal width */
-  min-width: 150px;        /* don’t shrink too small on narrow screens */
-  max-width: 250px;        /* limit how wide they get */
-  text-align: center;      /* centers the text inside each button */
-  display: inline-flex;    /* keeps icon and text aligned */
+  flex: 1;
+  min-width: 150px;
+  max-width: 250px;
+  text-align: center;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 0.4rem;             /* space between icon and text */
+  gap: 0.4rem;
   padding: 0.6rem 1rem;
   margin: 1rem 1rem;
   border-radius: 6px;
@@ -127,19 +131,7 @@
   transition: background-color 0.2s, transform 0.1s;
 }
 
-
-.info-button,
-.register-button {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  padding: 0.6rem 1rem;
-  border-radius: 6px;
-  font-weight: 600;
-  text-decoration: none;
-  transition: background-color 0.2s, transform 0.1s;
-}
-
+/* Colors */
 .info-button {
   background-color: #53917E;
   color: white;
@@ -161,4 +153,76 @@
 .button-group a:hover {
   transform: translateY(-2px);
 }
+
+/* --- MOBILE RESPONSIVE RULES --- */
+@media (max-width: 768px) {
+  /* Make the video fill the full screen height */
+  .video-container {
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  .video-container video {
+    width: 100%;
+    height: 100vh;
+    margin-top: 0px;
+    object-fit: cover;
+    transform: scale(0.95);  /* smaller = zooms out a bit */
+    transform-origin: center;
+  }
+
+  /* Make overlay take full screen center space */
+  .video-overlay {
+    top: 20%;                /* move it higher on the screen */
+    transform: translate(-50%, -30%); /* adjust vertical centering */
+    width: 80%;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .video-overlay h2 {
+    font-size: 1.4rem;
+    line-height: 1.3;
+  }
+
+  .video-overlay p {
+    font-size: 0.9rem;
+    margin-bottom: 0.8rem;
+  }
+
+
+  .info-button {
+    font-size: 0.8rem;
+  }
+
+  .register-button {
+    font-size: 0.8rem;
+  }
+
+  .video-overlay .button-group {
+    flex-direction: column;       /* stack vertically */
+    align-items: center;
+    gap: 0.4rem;                  /* tighter spacing between buttons */
+  }
+
+  .video-overlay .button-group a {
+    width: 70%;                   /* consistent button width */
+    max-width: 220px;
+    margin: 0;                    /* remove extra margins */
+    padding: 0.6rem 1rem;
+    font-size: 0.8rem;
+  }
+
+
+  .scroll-indicator {
+    bottom: 20%;
+    transform: scale(1.2) translateX(-50%);
+  }
+}
+
 
