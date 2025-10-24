@@ -2,7 +2,7 @@
 title: "Schedule"
 ---
 
-::: {.callout-note}
+::: {.callout-tip}
 ## Note
 
 The schedule is subject to change. A Microsoft Teams Meeting link will be circulated in advance of the information session.

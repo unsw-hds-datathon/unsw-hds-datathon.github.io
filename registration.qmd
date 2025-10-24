@@ -1,7 +1,5 @@
 ---
-format:
-  html:
-    theme: [darkly]
+format: html
 ---
 
 # Registration

@@ -2,7 +2,7 @@
 title: "Code of Conduct"
 ---
 
-::: {.callout-note}
+::: {.callout-tip}
 
 This code of conduct has been adapted from the Statistical Society of Australia (SSA) Code of Conduct [template](https://www.statsoc.org.au/CodeOfConductTemplate/). 
 
@@ -19,7 +19,7 @@ The organisers of the UNSW Health Data Science Datathon are committed to providi
 
 To report violations of this Code of Conduct, alert a member of the Response Team (names and contact details listed below). Reports may be made by people subject to, or witnesses of, unacceptable behaviour.
 
-::: {.callout-note}
+::: {.callout-tip}
 ## Code of Conduct Response Team
 
 #### Dr Sanja Lujic

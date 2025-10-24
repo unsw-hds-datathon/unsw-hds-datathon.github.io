@@ -71,7 +71,7 @@ format:
     link-external-icon: true
     link-external-newwindow: true
     footnotes-hover: true
-    theme: [slate, custom.scss]
+    theme: [minty, custom.scss]
 
 
 

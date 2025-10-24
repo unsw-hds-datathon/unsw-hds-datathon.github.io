@@ -3,6 +3,10 @@
 
 /*-- scss:defaults --*/
 
+$callout-note-background: #e0f7fa;
+$callout-note-border: #00acc1;
+$callout-note-color: #006064;
+
 /*-- scss:rules --*/
 
 #index-qmd {
@@ -73,6 +77,7 @@
   display: inline-block;
   width: 100%;
   height: auto;
+  background-color: black;
 }
 
 .video-container video {
@@ -135,13 +140,14 @@
 
 /* Colors */
 .info-button {
-  background-color: #53917E;
+  background-color: $primary;
   color: white;
 }
 
 .info-button:hover {
-  background-color: #64a692;
+  background-color: darken($primary, 5%);
 }
+
 
 .register-button {
   background-color: #f7b500;
@@ -172,11 +178,10 @@
     width: 100% !important;       /* wider than default */
       max-width: 100% !important;   /* don’t exceed screen */
       margin: 0px auto;
-    background-color: red;
   }
 
   .narrative-col p {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     background-color: rgba(0, 0, 0, 0.45);
     width: 100%;
     padding: 0px !important;
@@ -254,3 +259,14 @@
 }
 
 
+.oscar {
+  color: $body-bg;
+}
+
+.oscar > h2 {
+  color: $body-bg;
+}
+
+.oscar > p {
+  color: $body-bg;
+}
