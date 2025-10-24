@@ -97,9 +97,11 @@
 
 /* Buttons and text (unchanged from yours) */
 .video-overlay h2 {
+  margin: 0 0 0.5rem 0; /* top 0, bottom 0.5rem */
   font-size: 2.5rem;
-  margin-bottom: 0.5rem;
   color: white;
+  text-align: center;
+  line-height: 1.2;
 }
 
 .video-overlay p {
@@ -154,8 +156,33 @@
   transform: translateY(-2px);
 }
 
+
+/* Default narrative text (matches YAML defaults) */
+.narrative {
+  max-width: 80%;
+  margin: 1% auto;
+  font-size: 2rem; /* base font size */
+}
+
+
 /* --- MOBILE RESPONSIVE RULES --- */
 @media (max-width: 768px) {
+
+  .narrative-col {
+    width: 100% !important;       /* wider than default */
+      max-width: 100% !important;   /* don’t exceed screen */
+      margin: 0px auto;
+    background-color: red;
+  }
+
+  .narrative-col p {
+    font-size: 0.9rem;
+    background-color: rgba(0, 0, 0, 0.45);
+    width: 100%;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+
   /* Make the video fill the full screen height */
   .video-container {
     height: 100vh;
@@ -173,26 +200,27 @@
 
   /* Make overlay take full screen center space */
   .video-overlay {
+    margin-top: 20px;
     top: 20%;                /* move it higher on the screen */
-    transform: translate(-50%, -30%); /* adjust vertical centering */
-    width: 80%;
+    width: 90%;
     padding: 1rem;
     background-color: rgba(0, 0, 0, 0.6);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
   }
 
   .video-overlay h2 {
     font-size: 1.4rem;
-    line-height: 1.3;
+    text-align: center;       /* horizontal centering */
+    line-height: 1.2;         /* good spacing for multi-line text */
   }
 
   .video-overlay p {
     font-size: 0.9rem;
     margin-bottom: 0.8rem;
+    width: 65%;
   }
 
 
@@ -220,8 +248,8 @@
 
 
   .scroll-indicator {
-    bottom: 20%;
-    transform: scale(1.2) translateX(-50%);
+    bottom: 33%;
+    transform: scale(0.8) translateX(-50%);
   }
 }
 

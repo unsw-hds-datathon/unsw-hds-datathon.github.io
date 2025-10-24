@@ -47,14 +47,15 @@ format:
 
 
 ::::: {.cr-section layout="overlay-left"}
- 
+
 Each year, approximately 19,000 patients in Australia and 4,000 patients in New Zealand present with a new hip fracture @cr-image1
 
 These presentations are expected to increase in the foreseeable future, as our populations age
 
-When patients are admitted to hospital with a broken hip they are entered into the The Australian and New Zealand Hip Fracture Registry (ANZHFR)
+When patients are admitted to hospital with a broken hip they are entered into the Australian and New Zealand Hip Fracture Registry (ANZHFR)
 
 The ANZHFR data can then be used to improve clinical performance, examine national trends, advocate for better clinical care and ultimately optimise patient outcomes
+
 
 ::: {#cr-image1}
 ![](images/AdobeStock_280347585.jpeg)
