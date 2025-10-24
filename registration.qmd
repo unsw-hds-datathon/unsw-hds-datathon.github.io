@@ -1,8 +1,6 @@
 ---
-format: html
+title: "Registration"
 ---
-
-# Registration
 
 * You must enter the datathon in a team of 4 to 5 people
 * **All** team members must register
