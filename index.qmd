@@ -103,7 +103,7 @@ Register online [here](rte.ie). All team members must register.
 
 ### Contact
 
-For questions, information or accessibility queries please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a> from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the [registration form](https://forms.office.com/r/K2RQZeb1VF). 
+For questions, information or accessibility queries, please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a> from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the [registration form](https://forms.office.com/r/K2RQZeb1VF). 
 
 ::: {.oscar}
 

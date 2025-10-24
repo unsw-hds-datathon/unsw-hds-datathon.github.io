@@ -258,6 +258,29 @@ $callout-note-color: #006064;
   }
 }
 
+.quote-block {
+  position: relative;
+  font-size: 1rem;          /* normal text size */
+  line-height: 1.5;
+  font-style: italic;
+  color: #333;
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+.quote-block::before {
+  content: '“';              /* opening quotation mark */
+  font-size: 3rem;           /* make it huge */
+  font-weight: bold;
+  font-family: sans-serif;
+  color: $primary;            /* standout color */
+  position: absolute;
+  left: -1rem;             /* adjust horizontal position */
+  top: -0.5rem;              /* adjust vertical alignment */
+  line-height: 1;
+}
+
+
 
 .oscar {
   color: $body-bg;

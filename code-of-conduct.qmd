@@ -8,7 +8,7 @@ This code of conduct has been adapted from the Statistical Society of Australia 
 
 :::
 
-The organisers of the UNSW Health Data Science Datathon are committed to providing a event that is welcoming and safe for all participants, is free from discrimination and harassment, and where all participants are treated with dignity and respect. Adherence to this Code of Conduct is a requirement for all event participants, and covers all aspects of the datathon, including online and in-person spaces, any pre-event sessions, the datathon event, any social events and all communication, including that via email or social media associated with the event. Unacceptable behaviour includes, but is not limited to:
+The organisers of the UNSW Health Data Science Datathon are committed to providing an event that is welcoming and safe for all participants, is free from discrimination and harassment, and where all participants are treated with dignity and respect. Adherence to this Code of Conduct is a requirement for all event participants, and covers all aspects of the datathon, including online and in-person spaces, any pre-event sessions, the datathon event, any social events and all communication, including that via email or social media associated with the event. Unacceptable behaviour includes, but is not limited to:
 
 * Harassment, including verbal comments relating to gender, sexual orientation, disability, race, ethnicity, religion, age, national origin, gender identity or expression, or physical appearance.
 * Inappropriate and/or unwanted physical contact.
@@ -39,7 +39,7 @@ All efforts will be made to protect the anonymity of persons reporting violation
 
 This Code of Conduct is designed to ensure that this event can be enjoyed by all participants. We hope you have an inspiring and enjoyable time.
 
-::: {.callout-note}
+::: {.callout-tip}
 
 UNSW Sydney students should also be aware of the [Student Code of Conduct](https://www.unsw.edu.au/planning-assurance/conduct-integrity/conduct-unsw/student-conduct-integrity/student-code-conduct) in particular the sections pertaining to plagiarism. If you use code or other intellectual property as part of your datathon submission, the earlier work should be clearly referenced, just as you would do for an assessment.
 
