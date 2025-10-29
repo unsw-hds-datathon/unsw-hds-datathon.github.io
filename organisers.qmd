@@ -18,11 +18,11 @@ Our health data science programs are delivered by an interdisciplinary team of s
 
 
 <div class="bio-card">
-<img src="images/144_Oscar_Perez_credit_AnnaKucera.jpg" alt="Jane Doe headshot" class="headshot">
+<img src="images/144_Oscar_Perez_credit_AnnaKucera.jpg" alt="Dr Oscar Perez-Concha headshot" class="headshot">
 <div class="bio-content">
 <h3 class="bio-name">Dr Oscar Perez-Concha</h3>
-<div class="bio-role">World Leader in Machine Learning and Artificial Intelligence</div>
-<p class="bio-text">Oscar is an internationally recognised world leader in Machine Learning and Artificial Intelligence. His expertise spans the domains of forty minute coffee breaks, 420g chickpea salads, and Patatas Bravas.</p>
+<div class="bio-role">Senior Lecturer in Machine learning and AI</div>
+<p class="bio-text">Oscar specialises in analysing and extracting meaningful information from large unstructured health datasets using artificial intelligence (AI) and natural language processing (NLP). He teaches and convenes three postgraduate courses on applied AI in health, as part of the Master of Health Data Science and Clinical AI programs.</p>
 <a class="email-link" href="mailto:o.perezconcha@unsw.edu.au">o.perezconcha@unsw.edu.au</a>
 </div>
 </div>
