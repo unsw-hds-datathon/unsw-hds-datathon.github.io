@@ -171,6 +171,85 @@ $callout-note-color: #006064;
 }
 
 
+
+.bios {
+display: flex;
+gap: 1.25rem;
+flex-wrap: wrap;
+align-items: stretch;
+}
+
+
+.bio-card {
+flex: 1 1 340px;
+display: flex;
+gap: 1rem;
+align-items: center;
+background: var(--q-body-background, #ffffff);
+border-radius: 12px;
+padding: 1rem;
+box-shadow: 0 6px 18px rgba(20,24,40,0.06);
+border: 1px solid rgba(20,24,40,0.04);
+}
+
+
+.headshot {
+width: 96px;
+height: 96px;
+border-radius: 50%;
+object-fit: cover;
+flex: 0 0 96px;
+border: 3px solid rgba(79,70,229,0.12);
+box-shadow: 0 4px 10px rgba(20,24,40,0.06);
+}
+
+
+.bio-content {
+display: flex;
+flex-direction: column;
+gap: 0.35rem;
+}
+
+
+.bio-name {
+margin: 0;
+font-size: 1.05rem;
+font-weight: 700;
+line-height: 1.1;
+}
+
+
+.bio-role {
+margin: 0;
+font-size: 0.92rem;
+color: rgba(20,24,40,0.6);
+}
+
+
+.bio-text {
+margin-top: 0.35rem;
+margin-bottom: 0.5rem;
+font-size: 0.95rem;
+color: rgba(20,24,40,0.8);
+}
+
+
+.email-link {
+display: inline-flex;
+align-items: center;
+gap: 0.5rem;
+text-decoration: none;
+font-weight: 600;
+color: var(--q-link-color, $primary);
+}
+
+
+.email-link:hover {
+text-decoration: underline;
+}
+
+
+
 /* --- MOBILE RESPONSIVE RULES --- */
 @media (max-width: 768px) {
 
@@ -256,6 +335,11 @@ $callout-note-color: #006064;
     bottom: 33%;
     transform: scale(0.8) translateX(-50%);
   }
+
+.bio-card { align-items: flex-start; }
+
+.headshot { width: 72px; height: 72px; flex: 0 0 72px; }
+
 }
 
 .quote-block {

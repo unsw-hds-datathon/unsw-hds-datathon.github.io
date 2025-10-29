@@ -1,0 +1,42 @@
+---
+title: "Organisers"
+---
+
+![](images/Landscape__1.Col_Pos_CBDRH.png)
+
+The UNSW Health Data Science Datathon is organised by the [Centre for Big Data Research in Health (CBDRH)](https://www.unsw.edu.au/research/cbdrh) from the Faculty of Medicine and Health. 
+
+The CBDRH is Australia’s first research centre dedicated to health research using large-scale electronic data spanning the biomedical, clinical, health services and public health domains.
+
+### Study with us
+
+Our health data science programs are delivered by an interdisciplinary team of staff, who have world-leading expertise in managing, manipulating, analysing and visualising big data. Learn more about our post-graduate taught programs and research opportunities [here](https://www.unsw.edu.au/medicine-health/study-with-us/study-areas/health-data-science).
+
+### Datathon organisers
+
+<div class="bios">
+
+
+<div class="bio-card">
+<img src="images/144_Oscar_Perez_credit_AnnaKucera.jpg" alt="Jane Doe headshot" class="headshot">
+<div class="bio-content">
+<h3 class="bio-name">Dr Oscar Perez-Concha</h3>
+<div class="bio-role">World Leader in Machine Learning and Artificial Intelligence</div>
+<p class="bio-text">Oscar is an internationally recognised world leader in Machine Learning and Artificial Intelligence. His expertise spans the domains of forty minute coffee breaks, 420g chickpea salads, and Patatas Bravas.</p>
+<a class="email-link" href="mailto:o.perezconcha@unsw.edu.au">o.perezconcha@unsw.edu.au</a>
+</div>
+</div>
+
+
+<div class="bio-card">
+<img src="images/1L8A0884_Mark_Hanly.jpg" alt="John Smith headshot" class="headshot">
+<div class="bio-content">
+<h3 class="bio-name">Dr Mark Hanly</h3>
+<div class="bio-role">Senior Lecturer in Statistics</div>
+<p class="bio-text">Mark is a Senior Lecturer and applied social statistician based at the Centre for Big Data Research in Health, UNSW Sydney. His research focuses on the analysis of large, linked administrative datasets to answer research questions related to the health and social wellbeing of populations.</p>
+<a class="email-link" href="mailto:m.hanly@unsw.edu.au">m.hanly@unsw.edu.au</a>
+</div>
+</div>
+
+
+</div>

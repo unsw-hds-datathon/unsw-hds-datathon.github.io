@@ -36,6 +36,9 @@ website:
       - text: "Code of conduct"
         icon: heart
         href: code-of-conduct.qmd
+      - text: "Organisers"
+        icon: person-gear
+        href: organisers.qmd
       - text: "Archive"
         icon: code
         menu:
