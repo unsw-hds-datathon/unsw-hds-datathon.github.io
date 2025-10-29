@@ -28,18 +28,329 @@
     "text": "Tip\n\n\n\nThis code of conduct has been adapted from the Statistical Society of Australia (SSA) Code of Conduct template.\n\n\nThe organisers of the UNSW Health Data Science Datathon are committed to providing an event that is welcoming and safe for all participants, is free from discrimination and harassment, and where all participants are treated with dignity and respect. Adherence to this Code of Conduct is a requirement for all event participants, and covers all aspects of the datathon, including online and in-person spaces, any pre-event sessions, the datathon event, any social events and all communication, including that via email or social media associated with the event. Unacceptable behaviour includes, but is not limited to:\n\nHarassment, including verbal comments relating to gender, sexual orientation, disability, race, ethnicity, religion, age, national origin, gender identity or expression, or physical appearance.\nInappropriate and/or unwanted physical contact.\nUnwelcome sexual attention, which can include inappropriate questions, jokes, or comments of a sexual nature or repeatedly asking for dates or contact information.\nUnwanted photography or recording.\nDiscriminatory or sexual images in public spaces.\nSustained or wilful disruption of talks or other events.\n\nTo report violations of this Code of Conduct, alert a member of the Response Team (names and contact details listed below). Reports may be made by people subject to, or witnesses of, unacceptable behaviour.\n\n\n\n\n\n\nCode of Conduct Response Team\n\n\n\n\nDr Sanja Lujic\nSenior Lecturer, Centre for Big Data Research in Health, UNSW Sydney s.lujic@unsw.edu.au.\n\n\nDr Oscar Perez Concha\nSenior Lecturer, Centre for Big Data Research in Health, UNSW Sydney o.perezconcha@unsw.edu.au.\n\n\n\nIf an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removal of the individual from the event. Reports of unacceptable behaviour may be communicated to UNSW Sydney.\nAll efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if the Code of Conduct Response Team deems it necessary for the safety of event attendees, action will be taken, including referral of the report to UNSW Sydney.\nThis Code of Conduct is designed to ensure that this event can be enjoyed by all participants. We hope you have an inspiring and enjoyable time.\n\n\n\n\n\n\nTip\n\n\n\nUNSW Sydney students should also be aware of the Student Code of Conduct in particular the sections pertaining to plagiarism. If you use code or other intellectual property as part of your datathon submission, the earlier work should be clearly referenced, just as you would do for an assessment.\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "test.html",
-    "href": "test.html",
+    "objectID": "2025-info.html",
+    "href": "2025-info.html",
     "title": "UNSW Health Data Science Datathon",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+    "text": "You must enter the datathon in a team of 4 to 5 people\nAll team members must register\nDecide on a team name in advance—this is required to register and will be used to link you to your team mates.\nRegister here\n\n\nChanges of registration\nIf one or more team members can no longer attend you can either:\n\nSwap out with a new member. The new team member must fill in the registration form. The departing team member should email the organisers at m.hanly@unsw.edu.au to withdraw.\nWithdraw the entire team from the datathon. Email the organisers at m.hanly@unsw.edu.au to withdraw all team members.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UNSW Health Data Science Datathon",
+    "section": "",
+    "text": "Thursday 11 – Friday 12 December 2025\n    \n      \n         Details\n      \n      \n         Register"
+  },
+  {
+    "objectID": "index.html#the-unsw-health-data-science-datathon",
+    "href": "index.html#the-unsw-health-data-science-datathon",
+    "title": "UNSW Health Data Science Datathon",
+    "section": "The UNSW Health Data Science Datathon",
+    "text": "The UNSW Health Data Science Datathon\nA two-day datathon where teams will work together to analyse real-world hip fracture data. Participants will develop a full data science pipeline with prizes awarded for the best submission.\n\nKey Details\n\nWhen is it?\nThursday 11 - Friday 12 December 2025. Check out the schedule for more details\n\n\nWhere is it\nUNSW Health Translation Hub located on the corner of High Street and Botany Street Randwick\n\n\n\nWho can participate?\n\nUNSW students interested in analysing health data.\nEnrol as a team of 4.\n\n\n\nWhat skills do I need?\nThe approach to the datathon challenge is open ended—you could be working on a sophisticated prediction model, a patient-facing dashboard, or data-cleaning pipeline. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.\n\n\nThe data\nParticipants will analyse real-world data from the Australia, and New Zealand Hip Fracture Registry (ANZHFR). Check out the data page for more details.\n\n\nRegistration\nRegister online here. All team members must register.\n\n\nContact\nFor questions, information or accessibility queries, please contact Dr Oscar Perez Concha from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the registration form.\n\n\nMenú del día\n\n\nGambas Pil Pil\nPatatas Bravas\nHelados"
+  },
+  {
+    "objectID": "archive/2023-judging-criteria.html",
+    "href": "archive/2023-judging-criteria.html",
+    "title": "Judging criteria",
+    "section": "",
+    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nResearch Question\nAnalysis\nCommunicating results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nResearch question\n⅓\n\nClearly expressed and focused\nOperationalisable\nAchievable in the available time\n\n\n\nAnalysis\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nCommunicating results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nUnderstanding translation potential\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Judging criteria"
+    ]
+  },
+  {
+    "objectID": "archive/2024-review.html",
+    "href": "archive/2024-review.html",
+    "title": "Highlights",
+    "section": "",
+    "text": "Analysing the EPIWATCH\\(^®\\) data",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2024-review.html#key-figures",
+    "href": "archive/2024-review.html#key-figures",
+    "title": "Highlights",
+    "section": "Key figures",
+    "text": "Key figures\n\n\n51 Students 👩‍🎓 from 12 different UNSW schools and research centres 🏫\n13 Teams 🤝\n70,000 rows of EPIWATCH\\(^®\\) surveillance data 📈\nTwo EPIWATCH\\(^®\\) infectious disease experts 🦠\nOne winning team 🌟",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2024-review.html#overview-of-the-event",
+    "href": "archive/2024-review.html#overview-of-the-event",
+    "title": "Highlights",
+    "section": "Overview of the event",
+    "text": "Overview of the event\nThe second UNSW Health Data Science Datathon brought together more than fifty UNSW students across thirteen teams on 5-6 December, 2024. Participants dived into EPIWATCH\\(^®\\) surveillance data, tackling the challenge of designing a data science pipeline to predict emerging infectious disease outbreaks.\n\n\n\nUNSW students in action 💻  Credit: Cassandra Hannagan \n\n\nTwo infectious disease experts from the EPIWATCH project were on hand throughout the event to guide the teams. They provided invaluable insights, answered questions, and offered feedback to help participants refine their approaches to analysing the data and crafting effective surveillance pipelines.\n\n\n\nPresenting ideas to infectious disease experts. 💛  Credit: Cassandra Hannagan \n\n\nThe datathon wasn’t just about coding and data; it was also about enjoyment and camaraderie. The teams enjoyed good food and had loads of fun.\n\n\n\nFeeding the brain!  Credit: Cassandra Hannagan \n\n\nOn Day 2, finalist teams presented their work to a panel of judges.\n\n\n\nStudents presenting their work 💛  Credit: Cassandra Hannagan",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2024-review.html#announcing-the-winners",
+    "href": "archive/2024-review.html#announcing-the-winners",
+    "title": "Highlights",
+    "section": "Announcing the winners",
+    "text": "Announcing the winners\n\n\n\nSpecial mention: Vaibhav Jha, Palak Kapuriya, Siddharth Choudhury, Professor David Simar (Deputy Dean Research Operations - Faculty of Medicine and Health), Vansh Jain,  Credit: Cassandra Hannagan \n\n\n\n\n\nRunners-up [L-R]: Usha Kaur Khalsa, Ida Made Hrisikesa Wiweka, Professor David Simar (Deputy Dean Research Operations - Faculty of Medicine and Health), Zhiyuan Wang, (team member Haley Li not pictured)  Credit: Cassandra Hannagan \n\n\n\n\n\nRunners-up [L-R]: Christopher Leung (online), Harshita Punjabi, Neil Dadhich, Arnav Raina, Arya Ahluwalia  Credit: Cassandra Hannagan \n\n\n\n\n\nWinners [L-R]: Eleanore Williams, Damian O’Neil, Lisa Sharwood, Brianna Argall  Credit: Cassandra Hannagan \n\n\nCongratulations to all the participants!",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2024-review.html#the-data",
+    "href": "archive/2024-review.html#the-data",
+    "title": "Highlights",
+    "section": "The data",
+    "text": "The data\nThe EPIWATCH\\(^®\\) infectious disease surveillance system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated and non-curated online news sources, including the WHO, CDC and Google News.\nEach record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original online article.\n\n\nEPIWATCH\\(^®\\) data provides an early warning system—the canary in the coal mine for the next outbreak. In this example, media reports of unexplained pneumonia foreshadowed a Legionnaires’ Disease outbreak in Argentina, showcasing its power to detect outbreaks before they fully unfold.",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2024-review.html#what-our-participants-said",
+    "href": "archive/2024-review.html#what-our-participants-said",
+    "title": "Highlights",
+    "section": "What our participants said",
+    "text": "What our participants said\n\n\n\n\nBased on your experience at the datathon, would you recommend it to other students?\n\n\n\n\n\n\n\n\n100%\n\n\nAGREE\n\n\n\n\n\n\n\n\nI very much enjoyed working with my team members to brainstorm how to convert complex and messy datasets into well-organised formats for data visualisation.\n\n\n\n\n\n\n\n\n\n\n\n\nI particularly enjoyed working with my team and hearing others’ approaches.\n\n\n\n\n\n\n\n\n\nthe catering was amazing!!\n\n\n\n\n\n\n\n\n\n\n\n\nI loved every part of this experience and really appreciate the opportunities you have provided us all as students, to participate in such a fun, challenging and brain stimulating event.",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2024-review.html#picture-gallery",
+    "href": "archive/2024-review.html#picture-gallery",
+    "title": "Highlights",
+    "section": "Picture gallery",
+    "text": "Picture gallery\nExplore the images from the day below. Credit for all images to Cassandra Hannagan.",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2024-data.html#epiwatch",
+    "href": "archive/2024-data.html#epiwatch",
+    "title": "Data",
+    "section": "EPIWATCH\\(^®\\)",
+    "text": "EPIWATCH\\(^®\\)\nYou will be analysing the EPIWATCH\\(^®\\) dataset.\nEPIWATCH\\(^®\\) is an AI-based system that harnesses open-source data to generate automated early warnings of epidemics worldwide. The system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated and non-curated online news sources, including the WHO, CDC and Google News.\nEach record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original online article.\nYou can learn more about EPIWATCH\\(^®\\) at epiwatch.org/products and read about the potential for AI-based digital surveillance to act as automated early warning systems in MacIntyre et al. (2023).",
+    "crumbs": [
+      "Data"
+    ]
+  },
+  {
+    "objectID": "archive/2024-data.html#initial-data-release",
+    "href": "archive/2024-data.html#initial-data-release",
+    "title": "Data",
+    "section": "Initial data release",
+    "text": "Initial data release\nThe EPIWATCH\\(^®\\) data will be released on Friday 29th November, one week ahead of the datathon.",
+    "crumbs": [
+      "Data"
+    ]
+  },
+  {
+    "objectID": "archive/2024-data.html#live-updates",
+    "href": "archive/2024-data.html#live-updates",
+    "title": "Data",
+    "section": "Live updates",
+    "text": "Live updates\nTo simulate the experience of real-time surveillance, the dataset will be updated with an additional day of data every 5 minutes over the course of 90 minutes on Day 2 of the datathon. Updates will be appended to the initial release and available via the same link.",
+    "crumbs": [
+      "Data"
+    ]
+  },
+  {
+    "objectID": "archive/2023-review.html",
+    "href": "archive/2023-review.html",
+    "title": "Highlights",
+    "section": "",
+    "text": "Analysing the Antiretroviral Therapy in HIV dataset",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2023-review.html#key-figures",
+    "href": "archive/2023-review.html#key-figures",
+    "title": "Highlights",
+    "section": "Key figures",
+    "text": "Key figures\n\n\n22 Students 👩‍🎓\nSix Teams 🤝\nThree Content experts 💊\nTwo Government partners 🏥\nOne winning team 🌟",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2023-review.html#overview-of-the-event",
+    "href": "archive/2023-review.html#overview-of-the-event",
+    "title": "Highlights",
+    "section": "Overview of the event",
+    "text": "Overview of the event\nThe first CBDRH Health Data Science datathon took place on Friday 26th May 2023. This event saw the participation of 22 HDS students working in six teams, five on campus and one hybrid online/on-campus team. The event focused on the Antiretroviral Therapy in HIV dataset, and teams were challenged to pose a research question and develop a solution using their health context expertise and analytic skills.\n\n\n\nHealth Data Science students in action 💛  Credit: Cassandra Hannagan \n\n\nFive experts were on hand to guide the teams, aiding them in crafting and executing their research questions and proposed solutions effectively. This included applied researchers with content expertise in HIV medications and machine learning, and Health Informaticians from NSW Health Sydney Local Health District\n\n\n\nConsulting with machine learning experts. 💛  Credit: Cassandra Hannagan \n\n\nThe datathon wasn’t just about coding and data; it was also about enjoyment and camaraderie. The teams enjoyed good food and had loads of fun. The presentations from all teams were highly engaging, with everyone putting into practice the technical coding skills and health context expertise from the HDS program.\n\n\n\nStudents presenting their work 💛  Credit: Cassandra Hannagan \n\n\nThe day culminated with a prize ceremony to acknowledge the hard work from all of the teams, and of course announce the winners! The winning team’s breakthrough came from using neural networks to predict the success of current ART drug combinations for patients with HIV. The second-place team used survival analysis to answer the question, “What drug combination is most effective at achieving viral suppression?” The third team investigated the impact of Dolutegravir (DTG) as a third agent drug on time to viral suppression among active HIV patients under antiretroviral therapy (ART).\nThis event truly blended learning, collaboration, and fun, capturing the true essence of data science in an enjoyable and rewarding environment.",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2023-review.html#the-data",
+    "href": "archive/2023-review.html#the-data",
+    "title": "Highlights",
+    "section": "The data",
+    "text": "The data\nThe Antiretroviral Therapy in HIV dataset comprises viral loads, CD4 counts, and drug regimen information for 8,916 patients with HIV. This is a synthetic dataset that has been developed using Generative Adversarial Networks. This approach provides realistically complex data, allowing users to prototype, evaluate, and compare machine learning algorithms without the usual constraints of patient privacy.\n\n\nThe ART HIV dataset included demographic details and longitudinal clinical data on drug combinations and CD4 counts for nearly 9,000 patients. Common baseline drug regimes included tenofovir disoproxil & emtricitabine (FTC+TDF) and abacavir & lamivudine (3TC+ABC) Several of the teams choose to implement machine learning models to predict future CD4 outcomes based on previous values, demographics and treatment values.",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2023-review.html#what-our-students-said",
+    "href": "archive/2023-review.html#what-our-students-said",
+    "title": "Highlights",
+    "section": "What our students said",
+    "text": "What our students said\n\n\n\nBased on your experience at the datathon, would you recommend it to other students?\n\n\n\n\n\n\n\n\n100%\n\n\nDEFINATELY\n\n\n\n\n\n\n\n\nI loved getting to work with really complicated data based on real situations, loved the info sharing sessions and the support given.\n\n\n\n\n\n\n\n\n\n\n\n\nThe open-ended nature of the competition meant that we got to see different uses for the dataset. I got to meet participants from other faculties.\n\n\n\n\n\n\n\n\n\nThe actual competition day itself was very rewarding and also very fun!",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2023-review.html#picture-gallery",
+    "href": "archive/2023-review.html#picture-gallery",
+    "title": "Highlights",
+    "section": "Picture gallery",
+    "text": "Picture gallery\nExplore the images from the day below. Credit for all images to Cassandra Hannagan.",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "judging-criteria.html",
+    "href": "judging-criteria.html",
+    "title": "Judging criteria",
+    "section": "",
+    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nResearch framing\nAnalytic approach\nCommunication of results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nResearch framing\n⅓\n\nUnderstanding of question\nConnection to context\nFeasibility and originality\n\n\n\nAnalytic approach\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nCommunication of results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nTranslation potential\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "archive/2023-data.html",
+    "href": "archive/2023-data.html",
+    "title": "Data",
+    "section": "",
+    "text": "You will be analysing the Antiretroviral Therapy in HIV dataset from HealthGym.ai.\nThe Health Gym is a growing collection of highly realistic and freely-accessible synthetic medical datasets that has been developed to allow users to prototype, evaluate, and compare machine learning algorithms.\nThe Antiretroviral Therapy in HIV dataset comprises viral loads, CD4 counts, and drug regimen information for 8,916 patients with HIV.\nYou can learn more about the dataset at healthgym.ai/antiviral-hiv and read about the data generation process in this paper.",
+    "crumbs": [
+      "Data"
+    ]
+  },
+  {
+    "objectID": "archive/2023-data.html#data-versions-and-download-links",
+    "href": "archive/2023-data.html#data-versions-and-download-links",
+    "title": "Data",
+    "section": "Data versions and download links",
+    "text": "Data versions and download links\nPlease note there are two versions of the Antiretroviral Therapy in HIV dataset. For the datathon we will be using Version 2. The Health Gym v2.0 Synthetic Antiretroviral Therapy (ART) for HIV Dataset can be downloaded here (figshare.com)\nVersion 1 of the dataset is currently posted on HealthGym.ai. The variable names and data structure are similar so if you have done some initial exploration using Version 1 you can easily transfer to Version 2.",
+    "crumbs": [
+      "Data"
+    ]
+  },
+  {
+    "objectID": "archive/2024-judging-criteria.html",
+    "href": "archive/2024-judging-criteria.html",
+    "title": "Judging criteria",
+    "section": "",
+    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nAnalytic approach\nSurveillance quality\nCommunication of results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nAnalytic approach\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nSurveillance quality\n⅓\n\nTimely response to outbreaks in new data\nSpecific to location and disease\nNo false alarms\n\n\n\nCommunication of results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nTranslation potential\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Judging criteria"
+    ]
+  },
+  {
+    "objectID": "archive/2023-info.html#what-is-it",
+    "href": "archive/2023-info.html#what-is-it",
+    "title": "Overview",
+    "section": "What is it?",
+    "text": "What is it?\nA full-day datathon where teams will work together to analyse a HIV medications dataset. Participants will develop a full data science pipeline—from research question to analytic output—with prizes awarded for the best submission.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "archive/2023-info.html#when-is-it",
+    "href": "archive/2023-info.html#when-is-it",
+    "title": "Overview",
+    "section": "When is it?",
+    "text": "When is it?\n\nFriday 19th May, 3pm-5pm: Online introductory session\n\nRecordings will be made available for people who can’t make this session, although attendance is strongly encouraged\n\nFriday 26th May, 8am-5pm: Main event",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "archive/2023-info.html#who-can-participate",
+    "href": "archive/2023-info.html#who-can-participate",
+    "title": "Overview",
+    "section": "Who can participate?",
+    "text": "Who can participate?\n\nUNSW Health Data Science students and graduates.\nUNSW Clinical Artificial Intelligence students and graduates.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "archive/2023-info.html#is-it-online-or-in-person",
+    "href": "archive/2023-info.html#is-it-online-or-in-person",
+    "title": "Overview",
+    "section": "Is it online or in-person?",
+    "text": "Is it online or in-person?\nThe event will be in-person at UNSW, however there is also capacity for a limited number of online teams to compete, for those who wish to participate but can not make it to campus. The EOI form (linked below) includes an option to indicate whether you wish to attend online or in-person.\nA limited number of travel bursaries of up to $300 are available to support participants who wish to attend the event but are travelling from outside of Sydney. The EOI form (linked below) includes an option to indicate whether you wish to apply for a travel bursary. Applicants will be asked to provide their enrolment status and the destination from where they will be travelling from.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "archive/2023-info.html#where-is-it",
+    "href": "archive/2023-info.html#where-is-it",
+    "title": "Overview",
+    "section": "Where is it?",
+    "text": "Where is it?\nThe UNSW Kensington Campus, Electrical Engineering Building (K-G17), Room G03\n\n\nMap by MazeMap\nRoom G03 is wheelchair accessible and ventilated with air conditioning. More information is available online here.\nSee the UNSW website for more information on how to get to and from campus: inside.unsw.edu.au/campus-life/travel-options-get-and-unsw",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "archive/2023-info.html#the-data",
+    "href": "archive/2023-info.html#the-data",
+    "title": "Overview",
+    "section": "The data",
+    "text": "The data\nParticipants will use a synthetic dataset containing detailed drug regimen information and viral loads for patients with Human Immunodeficiency Virus (HIV). Currently, the only effective treatment for HIV is antiretroviral therapy, which involves life-long administration of combinations of these drugs. This medication stops the virus from multiplying by targeting different stages of viral replication. However, continual use of the same combinations of drugs may lead to the formation of drug-resistant viral strains, rendering similar combinations of drugs ineffective.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "archive/2023-info.html#the-datathon",
+    "href": "archive/2023-info.html#the-datathon",
+    "title": "Overview",
+    "section": "The datathon",
+    "text": "The datathon\n\nThe online introductory session (Friday 19th May)\nThis is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential research questions. Guest experts will give introductory talks on:\n\nThe Antiretroviral Therapy in HIV synthetic dataset\nHIV medications and potential research questions\n\nTeam membership will be confirmed before the online introductory event and teams will be given a mini-activity to complete in the week leading up to the main event.\n\n\nThe main event (Friday 26th May)\nParticipants will work together in teams of four to propose a research question and develop and implement a data science pipeline to address the research question. There is no restriction on choice of software or type of research questions. The final product could be an interactive visualisation, a predictive analysis, a risk factor analysis, time series analysis, etc. Experts in HIV medications and data analysis will be in the room to help participants develop their research question and solution. At the end of the day, each team will present their research question and solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts. Selected submissions may be included in a showcase and published on the CBDRH website or other suitable platform.\nLunch and morning tea and coffee will be provided for in-person participants. Dietary requirements can be noted in the EOI form.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "archive/2023-info.html#registration",
+    "href": "archive/2023-info.html#registration",
+    "title": "Overview",
+    "section": "Registration",
+    "text": "Registration\nTo register, fill out the expression of interest form by Friday 31st March 7th April. Registration is for individuals and teams will be formed by the organisers. If you want to be on a team with one or more other students, please note this on the form. Places are limited.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "archive/2023-info.html#contact",
+    "href": "archive/2023-info.html#contact",
+    "title": "Overview",
+    "section": "Contact",
+    "text": "Contact\nFor questions, information or accessibility queries please contact Dr Oscar Perez Concha. Accessibility requirements can also be noted in the EOI form.\n\n\nMenú del día\n\n\n\nPaella\n\n\nPan con tomate\n\n\nChurros",
+    "crumbs": [
+      "Overview"
+    ]
   },
   {
     "objectID": "archive/2024-info.html",
@@ -142,329 +453,25 @@
     ]
   },
   {
-    "objectID": "archive/2023-info.html#what-is-it",
-    "href": "archive/2023-info.html#what-is-it",
-    "title": "Overview",
-    "section": "What is it?",
-    "text": "What is it?\nA full-day datathon where teams will work together to analyse a HIV medications dataset. Participants will develop a full data science pipeline—from research question to analytic output—with prizes awarded for the best submission.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "archive/2023-info.html#when-is-it",
-    "href": "archive/2023-info.html#when-is-it",
-    "title": "Overview",
-    "section": "When is it?",
-    "text": "When is it?\n\nFriday 19th May, 3pm-5pm: Online introductory session\n\nRecordings will be made available for people who can’t make this session, although attendance is strongly encouraged\n\nFriday 26th May, 8am-5pm: Main event",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "archive/2023-info.html#who-can-participate",
-    "href": "archive/2023-info.html#who-can-participate",
-    "title": "Overview",
-    "section": "Who can participate?",
-    "text": "Who can participate?\n\nUNSW Health Data Science students and graduates.\nUNSW Clinical Artificial Intelligence students and graduates.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "archive/2023-info.html#is-it-online-or-in-person",
-    "href": "archive/2023-info.html#is-it-online-or-in-person",
-    "title": "Overview",
-    "section": "Is it online or in-person?",
-    "text": "Is it online or in-person?\nThe event will be in-person at UNSW, however there is also capacity for a limited number of online teams to compete, for those who wish to participate but can not make it to campus. The EOI form (linked below) includes an option to indicate whether you wish to attend online or in-person.\nA limited number of travel bursaries of up to $300 are available to support participants who wish to attend the event but are travelling from outside of Sydney. The EOI form (linked below) includes an option to indicate whether you wish to apply for a travel bursary. Applicants will be asked to provide their enrolment status and the destination from where they will be travelling from.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "archive/2023-info.html#where-is-it",
-    "href": "archive/2023-info.html#where-is-it",
-    "title": "Overview",
-    "section": "Where is it?",
-    "text": "Where is it?\nThe UNSW Kensington Campus, Electrical Engineering Building (K-G17), Room G03\n\n\nMap by MazeMap\nRoom G03 is wheelchair accessible and ventilated with air conditioning. More information is available online here.\nSee the UNSW website for more information on how to get to and from campus: inside.unsw.edu.au/campus-life/travel-options-get-and-unsw",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "archive/2023-info.html#the-data",
-    "href": "archive/2023-info.html#the-data",
-    "title": "Overview",
-    "section": "The data",
-    "text": "The data\nParticipants will use a synthetic dataset containing detailed drug regimen information and viral loads for patients with Human Immunodeficiency Virus (HIV). Currently, the only effective treatment for HIV is antiretroviral therapy, which involves life-long administration of combinations of these drugs. This medication stops the virus from multiplying by targeting different stages of viral replication. However, continual use of the same combinations of drugs may lead to the formation of drug-resistant viral strains, rendering similar combinations of drugs ineffective.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "archive/2023-info.html#the-datathon",
-    "href": "archive/2023-info.html#the-datathon",
-    "title": "Overview",
-    "section": "The datathon",
-    "text": "The datathon\n\nThe online introductory session (Friday 19th May)\nThis is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential research questions. Guest experts will give introductory talks on:\n\nThe Antiretroviral Therapy in HIV synthetic dataset\nHIV medications and potential research questions\n\nTeam membership will be confirmed before the online introductory event and teams will be given a mini-activity to complete in the week leading up to the main event.\n\n\nThe main event (Friday 26th May)\nParticipants will work together in teams of four to propose a research question and develop and implement a data science pipeline to address the research question. There is no restriction on choice of software or type of research questions. The final product could be an interactive visualisation, a predictive analysis, a risk factor analysis, time series analysis, etc. Experts in HIV medications and data analysis will be in the room to help participants develop their research question and solution. At the end of the day, each team will present their research question and solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts. Selected submissions may be included in a showcase and published on the CBDRH website or other suitable platform.\nLunch and morning tea and coffee will be provided for in-person participants. Dietary requirements can be noted in the EOI form.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "archive/2023-info.html#registration",
-    "href": "archive/2023-info.html#registration",
-    "title": "Overview",
-    "section": "Registration",
-    "text": "Registration\nTo register, fill out the expression of interest form by Friday 31st March 7th April. Registration is for individuals and teams will be formed by the organisers. If you want to be on a team with one or more other students, please note this on the form. Places are limited.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "archive/2023-info.html#contact",
-    "href": "archive/2023-info.html#contact",
-    "title": "Overview",
-    "section": "Contact",
-    "text": "Contact\nFor questions, information or accessibility queries please contact Dr Oscar Perez Concha. Accessibility requirements can also be noted in the EOI form.\n\n\nMenú del día\n\n\n\nPaella\n\n\nPan con tomate\n\n\nChurros",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "archive/2024-judging-criteria.html",
-    "href": "archive/2024-judging-criteria.html",
-    "title": "Judging criteria",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nAnalytic approach\nSurveillance quality\nCommunication of results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nAnalytic approach\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nSurveillance quality\n⅓\n\nTimely response to outbreaks in new data\nSpecific to location and disease\nNo false alarms\n\n\n\nCommunication of results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nTranslation potential\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Judging criteria"
-    ]
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "archive/2023-data.html",
-    "href": "archive/2023-data.html",
-    "title": "Data",
-    "section": "",
-    "text": "You will be analysing the Antiretroviral Therapy in HIV dataset from HealthGym.ai.\nThe Health Gym is a growing collection of highly realistic and freely-accessible synthetic medical datasets that has been developed to allow users to prototype, evaluate, and compare machine learning algorithms.\nThe Antiretroviral Therapy in HIV dataset comprises viral loads, CD4 counts, and drug regimen information for 8,916 patients with HIV.\nYou can learn more about the dataset at healthgym.ai/antiviral-hiv and read about the data generation process in this paper.",
-    "crumbs": [
-      "Data"
-    ]
-  },
-  {
-    "objectID": "archive/2023-data.html#data-versions-and-download-links",
-    "href": "archive/2023-data.html#data-versions-and-download-links",
-    "title": "Data",
-    "section": "Data versions and download links",
-    "text": "Data versions and download links\nPlease note there are two versions of the Antiretroviral Therapy in HIV dataset. For the datathon we will be using Version 2. The Health Gym v2.0 Synthetic Antiretroviral Therapy (ART) for HIV Dataset can be downloaded here (figshare.com)\nVersion 1 of the dataset is currently posted on HealthGym.ai. The variable names and data structure are similar so if you have done some initial exploration using Version 1 you can easily transfer to Version 2.",
-    "crumbs": [
-      "Data"
-    ]
-  },
-  {
-    "objectID": "judging-criteria.html",
-    "href": "judging-criteria.html",
-    "title": "Judging criteria",
-    "section": "",
-    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nResearch framing\nAnalytic approach\nCommunication of results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nResearch framing\n⅓\n\nUnderstanding of question\nConnection to context\nFeasibility and originality\n\n\n\nAnalytic approach\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nCommunication of results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nTranslation potential\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "archive/2023-review.html",
-    "href": "archive/2023-review.html",
-    "title": "Highlights",
-    "section": "",
-    "text": "Analysing the Antiretroviral Therapy in HIV dataset",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2023-review.html#key-figures",
-    "href": "archive/2023-review.html#key-figures",
-    "title": "Highlights",
-    "section": "Key figures",
-    "text": "Key figures\n\n\n22 Students 👩‍🎓\nSix Teams 🤝\nThree Content experts 💊\nTwo Government partners 🏥\nOne winning team 🌟",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2023-review.html#overview-of-the-event",
-    "href": "archive/2023-review.html#overview-of-the-event",
-    "title": "Highlights",
-    "section": "Overview of the event",
-    "text": "Overview of the event\nThe first CBDRH Health Data Science datathon took place on Friday 26th May 2023. This event saw the participation of 22 HDS students working in six teams, five on campus and one hybrid online/on-campus team. The event focused on the Antiretroviral Therapy in HIV dataset, and teams were challenged to pose a research question and develop a solution using their health context expertise and analytic skills.\n\n\n\nHealth Data Science students in action 💛  Credit: Cassandra Hannagan \n\n\nFive experts were on hand to guide the teams, aiding them in crafting and executing their research questions and proposed solutions effectively. This included applied researchers with content expertise in HIV medications and machine learning, and Health Informaticians from NSW Health Sydney Local Health District\n\n\n\nConsulting with machine learning experts. 💛  Credit: Cassandra Hannagan \n\n\nThe datathon wasn’t just about coding and data; it was also about enjoyment and camaraderie. The teams enjoyed good food and had loads of fun. The presentations from all teams were highly engaging, with everyone putting into practice the technical coding skills and health context expertise from the HDS program.\n\n\n\nStudents presenting their work 💛  Credit: Cassandra Hannagan \n\n\nThe day culminated with a prize ceremony to acknowledge the hard work from all of the teams, and of course announce the winners! The winning team’s breakthrough came from using neural networks to predict the success of current ART drug combinations for patients with HIV. The second-place team used survival analysis to answer the question, “What drug combination is most effective at achieving viral suppression?” The third team investigated the impact of Dolutegravir (DTG) as a third agent drug on time to viral suppression among active HIV patients under antiretroviral therapy (ART).\nThis event truly blended learning, collaboration, and fun, capturing the true essence of data science in an enjoyable and rewarding environment.",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2023-review.html#the-data",
-    "href": "archive/2023-review.html#the-data",
-    "title": "Highlights",
-    "section": "The data",
-    "text": "The data\nThe Antiretroviral Therapy in HIV dataset comprises viral loads, CD4 counts, and drug regimen information for 8,916 patients with HIV. This is a synthetic dataset that has been developed using Generative Adversarial Networks. This approach provides realistically complex data, allowing users to prototype, evaluate, and compare machine learning algorithms without the usual constraints of patient privacy.\n\n\nThe ART HIV dataset included demographic details and longitudinal clinical data on drug combinations and CD4 counts for nearly 9,000 patients. Common baseline drug regimes included tenofovir disoproxil & emtricitabine (FTC+TDF) and abacavir & lamivudine (3TC+ABC) Several of the teams choose to implement machine learning models to predict future CD4 outcomes based on previous values, demographics and treatment values.",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2023-review.html#what-our-students-said",
-    "href": "archive/2023-review.html#what-our-students-said",
-    "title": "Highlights",
-    "section": "What our students said",
-    "text": "What our students said\n\n\n\nBased on your experience at the datathon, would you recommend it to other students?\n\n\n\n\n\n\n\n\n100%\n\n\nDEFINATELY\n\n\n\n\n\n\n\n\nI loved getting to work with really complicated data based on real situations, loved the info sharing sessions and the support given.\n\n\n\n\n\n\n\n\n\n\n\n\nThe open-ended nature of the competition meant that we got to see different uses for the dataset. I got to meet participants from other faculties.\n\n\n\n\n\n\n\n\n\nThe actual competition day itself was very rewarding and also very fun!",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2023-review.html#picture-gallery",
-    "href": "archive/2023-review.html#picture-gallery",
-    "title": "Highlights",
-    "section": "Picture gallery",
-    "text": "Picture gallery\nExplore the images from the day below. Credit for all images to Cassandra Hannagan.",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2024-data.html#epiwatch",
-    "href": "archive/2024-data.html#epiwatch",
-    "title": "Data",
-    "section": "EPIWATCH\\(^®\\)",
-    "text": "EPIWATCH\\(^®\\)\nYou will be analysing the EPIWATCH\\(^®\\) dataset.\nEPIWATCH\\(^®\\) is an AI-based system that harnesses open-source data to generate automated early warnings of epidemics worldwide. The system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated and non-curated online news sources, including the WHO, CDC and Google News.\nEach record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original online article.\nYou can learn more about EPIWATCH\\(^®\\) at epiwatch.org/products and read about the potential for AI-based digital surveillance to act as automated early warning systems in MacIntyre et al. (2023).",
-    "crumbs": [
-      "Data"
-    ]
-  },
-  {
-    "objectID": "archive/2024-data.html#initial-data-release",
-    "href": "archive/2024-data.html#initial-data-release",
-    "title": "Data",
-    "section": "Initial data release",
-    "text": "Initial data release\nThe EPIWATCH\\(^®\\) data will be released on Friday 29th November, one week ahead of the datathon.",
-    "crumbs": [
-      "Data"
-    ]
-  },
-  {
-    "objectID": "archive/2024-data.html#live-updates",
-    "href": "archive/2024-data.html#live-updates",
-    "title": "Data",
-    "section": "Live updates",
-    "text": "Live updates\nTo simulate the experience of real-time surveillance, the dataset will be updated with an additional day of data every 5 minutes over the course of 90 minutes on Day 2 of the datathon. Updates will be appended to the initial release and available via the same link.",
-    "crumbs": [
-      "Data"
-    ]
-  },
-  {
-    "objectID": "archive/2024-review.html",
-    "href": "archive/2024-review.html",
-    "title": "Highlights",
-    "section": "",
-    "text": "Analysing the EPIWATCH\\(^®\\) data",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2024-review.html#key-figures",
-    "href": "archive/2024-review.html#key-figures",
-    "title": "Highlights",
-    "section": "Key figures",
-    "text": "Key figures\n\n\n51 Students 👩‍🎓 from 12 different UNSW schools and research centres 🏫\n13 Teams 🤝\n70,000 rows of EPIWATCH\\(^®\\) surveillance data 📈\nTwo EPIWATCH\\(^®\\) infectious disease experts 🦠\nOne winning team 🌟",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2024-review.html#overview-of-the-event",
-    "href": "archive/2024-review.html#overview-of-the-event",
-    "title": "Highlights",
-    "section": "Overview of the event",
-    "text": "Overview of the event\nThe second UNSW Health Data Science Datathon brought together more than fifty UNSW students across thirteen teams on 5-6 December, 2024. Participants dived into EPIWATCH\\(^®\\) surveillance data, tackling the challenge of designing a data science pipeline to predict emerging infectious disease outbreaks.\n\n\n\nUNSW students in action 💻  Credit: Cassandra Hannagan \n\n\nTwo infectious disease experts from the EPIWATCH project were on hand throughout the event to guide the teams. They provided invaluable insights, answered questions, and offered feedback to help participants refine their approaches to analysing the data and crafting effective surveillance pipelines.\n\n\n\nPresenting ideas to infectious disease experts. 💛  Credit: Cassandra Hannagan \n\n\nThe datathon wasn’t just about coding and data; it was also about enjoyment and camaraderie. The teams enjoyed good food and had loads of fun.\n\n\n\nFeeding the brain!  Credit: Cassandra Hannagan \n\n\nOn Day 2, finalist teams presented their work to a panel of judges.\n\n\n\nStudents presenting their work 💛  Credit: Cassandra Hannagan",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2024-review.html#announcing-the-winners",
-    "href": "archive/2024-review.html#announcing-the-winners",
-    "title": "Highlights",
-    "section": "Announcing the winners",
-    "text": "Announcing the winners\n\n\n\nSpecial mention: Vaibhav Jha, Palak Kapuriya, Siddharth Choudhury, Professor David Simar (Deputy Dean Research Operations - Faculty of Medicine and Health), Vansh Jain,  Credit: Cassandra Hannagan \n\n\n\n\n\nRunners-up [L-R]: Usha Kaur Khalsa, Ida Made Hrisikesa Wiweka, Professor David Simar (Deputy Dean Research Operations - Faculty of Medicine and Health), Zhiyuan Wang, (team member Haley Li not pictured)  Credit: Cassandra Hannagan \n\n\n\n\n\nRunners-up [L-R]: Christopher Leung (online), Harshita Punjabi, Neil Dadhich, Arnav Raina, Arya Ahluwalia  Credit: Cassandra Hannagan \n\n\n\n\n\nWinners [L-R]: Eleanore Williams, Damian O’Neil, Lisa Sharwood, Brianna Argall  Credit: Cassandra Hannagan \n\n\nCongratulations to all the participants!",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2024-review.html#the-data",
-    "href": "archive/2024-review.html#the-data",
-    "title": "Highlights",
-    "section": "The data",
-    "text": "The data\nThe EPIWATCH\\(^®\\) infectious disease surveillance system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated and non-curated online news sources, including the WHO, CDC and Google News.\nEach record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original online article.\n\n\nEPIWATCH\\(^®\\) data provides an early warning system—the canary in the coal mine for the next outbreak. In this example, media reports of unexplained pneumonia foreshadowed a Legionnaires’ Disease outbreak in Argentina, showcasing its power to detect outbreaks before they fully unfold.",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2024-review.html#what-our-participants-said",
-    "href": "archive/2024-review.html#what-our-participants-said",
-    "title": "Highlights",
-    "section": "What our participants said",
-    "text": "What our participants said\n\n\n\n\nBased on your experience at the datathon, would you recommend it to other students?\n\n\n\n\n\n\n\n\n100%\n\n\nAGREE\n\n\n\n\n\n\n\n\nI very much enjoyed working with my team members to brainstorm how to convert complex and messy datasets into well-organised formats for data visualisation.\n\n\n\n\n\n\n\n\n\n\n\n\nI particularly enjoyed working with my team and hearing others’ approaches.\n\n\n\n\n\n\n\n\n\nthe catering was amazing!!\n\n\n\n\n\n\n\n\n\n\n\n\nI loved every part of this experience and really appreciate the opportunities you have provided us all as students, to participate in such a fun, challenging and brain stimulating event.",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2024-review.html#picture-gallery",
-    "href": "archive/2024-review.html#picture-gallery",
-    "title": "Highlights",
-    "section": "Picture gallery",
-    "text": "Picture gallery\nExplore the images from the day below. Credit for all images to Cassandra Hannagan.",
-    "crumbs": [
-      "Highlights"
-    ]
-  },
-  {
-    "objectID": "archive/2023-judging-criteria.html",
-    "href": "archive/2023-judging-criteria.html",
-    "title": "Judging criteria",
-    "section": "",
-    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nResearch Question\nAnalysis\nCommunicating results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nResearch question\n⅓\n\nClearly expressed and focused\nOperationalisable\nAchievable in the available time\n\n\n\nAnalysis\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nCommunicating results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nUnderstanding translation potential\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Judging criteria"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "UNSW Health Data Science Datathon",
-    "section": "",
-    "text": "Thursday 11 – Friday 12 December 2025\n    \n      \n         Details\n      \n      \n         Register"
-  },
-  {
-    "objectID": "index.html#the-unsw-health-data-science-datathon",
-    "href": "index.html#the-unsw-health-data-science-datathon",
-    "title": "UNSW Health Data Science Datathon",
-    "section": "The UNSW Health Data Science Datathon",
-    "text": "The UNSW Health Data Science Datathon\nA two-day datathon where teams will work together to analyse real-world hip fracture data. Participants will develop a full data science pipeline with prizes awarded for the best submission.\n\nKey Details\n\nWhen is it?\nThursday 11 - Friday 12 December 2025. Check out the schedule for more details\n\n\nWhere is it\nUNSW Health Translation Hub located on the corner of High Street and Botany Street Randwick\n\n\n\nWho can participate?\n\nUNSW students interested in analysing health data.\nEnrol as a team of 4.\n\n\n\nWhat skills do I need?\nThe approach to the datathon challenge is open ended—you could be working on a sophisticated prediction model, a patient-facing dashboard, or data-cleaning pipeline. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.\n\n\nThe data\nParticipants will analyse real-world data from the Australia, and New Zealand Hip Fracture Registry (ANZHFR). Check out the data page for more details.\n\n\nRegistration\nRegister online here. All team members must register.\n\n\nContact\nFor questions, information or accessibility queries, please contact Dr Oscar Perez Concha from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the registration form.\n\n\nMenú del día\n\n\nGambas Pil Pil\nPatatas Bravas\nHelados"
-  },
-  {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "You must enter the datathon in a team of 4 to 5 people\nAll team members must register\nDecide on a team name in advance—this is required to register and will be used to link you to your team mates.\nRegister here\n\n\nChanges of registration\nIf one or more team members can no longer attend you can either:\n\nSwap out with a new member. The new team member must fill in the registration form. The departing team member should email the organisers at m.hanly@unsw.edu.au to withdraw.\nWithdraw the entire team from the datathon. Email the organisers at m.hanly@unsw.edu.au to withdraw all team members.\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "2025-info.html",
-    "href": "2025-info.html",
+    "objectID": "test.html",
+    "href": "test.html",
     "title": "UNSW Health Data Science Datathon",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "organisers.html",
+    "href": "organisers.html",
+    "title": "Organisers",
+    "section": "",
+    "text": "The UNSW Health Data Science Datathon is organised by the Centre for Big Data Research in Health (CBDRH) from the Faculty of Medicine and Health.\nThe CBDRH is Australia’s first research centre dedicated to health research using large-scale electronic data spanning the biomedical, clinical, health services and public health domains.\n\nStudy with us\nOur health data science programs are delivered by an interdisciplinary team of staff, who have world-leading expertise in managing, manipulating, analysing and visualising big data. Learn more about our post-graduate taught programs and research opportunities here.\n\n\nDatathon organisers\n\n\n\n\n\nDr Oscar Perez-Concha\n\n\nWorld Leader in Machine Learning and Artificial Intelligence\n\n\nOscar is an internationally recognised world leader in Machine Learning and Artificial Intelligence. His expertise spans the domains of forty minute coffee breaks, 420g chickpea salads, and Patatas Bravas.\n\no.perezconcha@unsw.edu.au\n\n\n\n\n\n\nDr Mark Hanly\n\n\nSenior Lecturer in Statistics\n\n\nMark is a Senior Lecturer and applied social statistician based at the Centre for Big Data Research in Health, UNSW Sydney. His research focuses on the analysis of large, linked administrative datasets to answer research questions related to the health and social wellbeing of populations.\n\nm.hanly@unsw.edu.au\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "schedule.html",
@@ -486,12 +493,5 @@
     "title": "Schedule",
     "section": "Datathon (In-person at UNSW)",
     "text": "Datathon (In-person at UNSW)\n\nDay 1: Thursday 11 December 2025\n\n\n\n08:30 - 09:00\nRegistration\n\n\n09:00 - 09:30\nWelcome and introduction to domain experts\n\n\n09:30 - 12:00\nTeams work on project\n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 17:00\nTeams work on project\n\n\n17:00 - 19:00\nSocial at the Roundhouse\n\n\n\n\n\n\nDay 2: Friday 12 December 2025\n\n\n\n\n\n\n\n09:00 - 12:00\nTeams work on project\n\n\n12:00 - 12:30\nLunch\n\n\n12:30 - 14:00\nTeams work on project\n\n\n14:00 - 15:30\nPresentations (7 mins presentation + 3 mins questions per team)\n\n\n15:30 - 16:00\nJury deliberation and drinks reception\n\n\n16:00 - 16:30\nPrize-giving and closing"
-  },
-  {
-    "objectID": "organisers.html",
-    "href": "organisers.html",
-    "title": "Organisers",
-    "section": "",
-    "text": "The UNSW Health Data Science Datathon is organised by the Centre for Big Data Research in Health (CBDRH) from the Faculty of Medicine and Health.\nThe CBDRH is Australia’s first research centre dedicated to health research using large-scale electronic data spanning the biomedical, clinical, health services and public health domains.\n\nStudy with us\nOur health data science programs are delivered by an interdisciplinary team of staff, who have world-leading expertise in managing, manipulating, analysing and visualising big data. Learn more about our post-graduate taught programs and research opportunities here.\n\n\nDatathon organisers\n\n\n\n\n\nDr Oscar Perez-Concha\n\n\nWorld Leader in Machine Learning and Artificial Intelligence\n\n\nOscar is an internationally recognised world leader in Machine Learning and Artificial Intelligence. His expertise spans the domains of forty minute coffee breaks, 420g chickpea salads, and Patatas Bravas.\n\no.perezconcha@unsw.edu.au\n\n\n\n\n\n\nDr Mark Hanly\n\n\nSenior Lecturer in Statistics\n\n\nMark is a Senior Lecturer and applied social statistician based at the Centre for Big Data Research in Health, UNSW Sydney. His research focuses on the analysis of large, linked administrative datasets to answer research questions related to the health and social wellbeing of populations.\n\nm.hanly@unsw.edu.au\n\n\n\n\n\n\n\n Back to top"
   }
 ]
