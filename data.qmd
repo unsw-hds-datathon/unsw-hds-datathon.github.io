@@ -4,7 +4,7 @@ title: "About the data"
 
 ![](images/ANZHFR-removebg-2048x570.png)
 
-
+This year's datathon will use synthetic data from the Australian and New Zealand Hip Fracture Registry. This data resource can be used to address important health questions that will require you to develop statistical or machine learning models of patient outcomes, visualise patient data, or build front end applications to explore or summarise the data.  
 
 ## The Problem
 

@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "About the data",
+    "section": "",
+    "text": "This year’s datathon will use synthetic data from the Australian and New Zealand Hip Fracture Registry. This data resource can be used to address important health questions that will require you to develop statistical or machine learning models of patient outcomes, visualise patient data, or build front end applications to explore or summarise the data."
+  },
+  {
     "objectID": "data.html#the-problem",
     "href": "data.html#the-problem",
     "title": "About the data",
@@ -39,7 +46,7 @@
     "href": "registration.html",
     "title": "Registration",
     "section": "",
-    "text": "You must enter the datathon in a team of 4 to 5 people\nAll team members must register\nDecide on a team name in advance—this is required to register and will be used to link you to your team mates.\nRegister here\n\n\nChanges of registration\nIf one or more team members can no longer attend you can either:\n\nSwap out with a new member. The new team member must fill in the registration form. The departing team member should email the organisers at m.hanly@unsw.edu.au to withdraw.\nWithdraw the entire team from the datathon. Email the organisers at m.hanly@unsw.edu.au to withdraw all team members.\n\n\n\n\n\n Back to top"
+    "text": "Tip\n\n\n\nIn order to register you are required to download and sign a Data Usage Agreement, so we recommend to register on a desktop/laptop.\n\n\n\nYou must enter the datathon in a team of 4 people\nAll team members must register\nDecide on a team name in advance—this is required to register and will be used to link you to your team mates.\nRegister here\n\n\nChanges of registration\nIf one or more team members can no longer attend you can either:\n\nSwap out with a new member. The new team member must fill in the registration form. The departing team member should email the organisers at m.hanly@unsw.edu.au to withdraw.\nWithdraw the entire team from the datathon. Email the organisers at m.hanly@unsw.edu.au to withdraw all team members.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html",
@@ -53,7 +60,7 @@
     "href": "index.html#the-unsw-health-data-science-datathon",
     "title": "UNSW Health Data Science Datathon",
     "section": "The UNSW Health Data Science Datathon",
-    "text": "The UNSW Health Data Science Datathon\nA two-day datathon where teams will work together to analyse real-world hip fracture data. Participants will develop a full data science pipeline with prizes awarded for the best submission.\n\nKey Details\n\nWhen is it?\nThursday 11 - Friday 12 December 2025. Check out the schedule for more details\n\n\nWhere is it\nUNSW Health Translation Hub located on the corner of High Street and Botany Street Randwick\n\n\n\nWho can participate?\n\nUNSW students interested in analysing health data.\nEnrol as a team of 4.\n\n\n\nWhat skills do I need?\nThe approach to the datathon challenge is open ended—you could be working on a sophisticated prediction model, a patient-facing dashboard, or data-cleaning pipeline. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.\n\n\nThe data\nParticipants will analyse real-world data from the Australia, and New Zealand Hip Fracture Registry (ANZHFR). Check out the data page for more details.\n\n\nRegistration\nRegister online here. All team members must register.\n\n\nContact\nFor questions, information or accessibility queries, please contact Dr Oscar Perez Concha from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the registration form.\n\n\nMenú del día\n\n\nGambas Pil Pil\nPatatas Bravas\nHelados"
+    "text": "The UNSW Health Data Science Datathon\nA two-day datathon where teams will work together to analyse real-world hip fracture data. Participants will develop a full data science pipeline with prizes awarded for the best submission.\n\nKey Details\n\nWhen is it?\nThursday 11 - Friday 12 December 2025. Check out the schedule for more details\n\n\nWhere is it\nUNSW Health Translation Hub located on the corner of High Street and Botany Street Randwick\n\n\nWho can participate?\n\nUNSW students interested in analysing health data.\nEnrol as a team of 4.\n\n\n\nWhat skills do I need?\nThe approach to the datathon challenge is open ended—you could be working on a sophisticated prediction model, a patient-facing dashboard, or data-cleaning pipeline. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.\n\n\nThe data\nParticipants will analyse data from the Australian and New Zealand Hip Fracture Registry (ANZHFR). Check out the data page for more details.\n\n\nThe prizes\nTop ranked teams will share in over $1,500 in prizes.\n\n\nRegistration\nRegister online here. All team members must register.\n\n\nContact\nFor questions, information or accessibility queries, please contact Dr Oscar Perez Concha from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the registration form.\n\n\nMenú del día\n\n\nGambas Pil Pil\nPatatas Bravas\nHelados"
   },
   {
     "objectID": "archive/2023-judging-criteria.html",
@@ -492,6 +499,6 @@
     "href": "schedule.html#datathon-in-person-at-unsw",
     "title": "Schedule",
     "section": "Datathon (In-person at UNSW)",
-    "text": "Datathon (In-person at UNSW)\n\nDay 1: Thursday 11 December 2025\n\n\n\n08:30 - 09:00\nRegistration\n\n\n09:00 - 09:30\nWelcome and introduction to domain experts\n\n\n09:30 - 12:00\nTeams work on project\n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 17:00\nTeams work on project\n\n\n17:00 - 19:00\nSocial at the Roundhouse\n\n\n\n\n\n\nDay 2: Friday 12 December 2025\n\n\n\n\n\n\n\n09:00 - 12:00\nTeams work on project\n\n\n12:00 - 12:30\nLunch\n\n\n12:30 - 14:00\nTeams work on project\n\n\n14:00 - 15:30\nPresentations (7 mins presentation + 3 mins questions per team)\n\n\n15:30 - 16:00\nJury deliberation and drinks reception\n\n\n16:00 - 16:30\nPrize-giving and closing"
+    "text": "Datathon (In-person at UNSW)\n\nDay 1: Thursday 11 December 2025\n\n\n\n08:30 - 09:00\nRegistration\n\n\n09:00 - 09:30\nWelcome and introduction to domain experts\n\n\n09:30 - 12:00\nTeams work on project\n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 17:00\nTeams work on project\n\n\n\n\n\n\nDay 2: Friday 12 December 2025\n\n\n\n\n\n\n\n09:00 - 12:00\nTeams work on project\n\n\n12:00 - 12:30\nLunch\n\n\n12:30 - 14:00\nTeams work on project\n\n\n14:00 - 15:30\nPresentations (7 mins presentation + 3 mins questions per team)\n\n\n15:30 - 16:00\nJury deliberation and drinks reception\n\n\n16:00 - 16:30\nPrize-giving and closing"
   }
 ]

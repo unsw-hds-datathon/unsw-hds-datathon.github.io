@@ -82,28 +82,31 @@ Thursday 11 - Friday 12 December 2025. Check out the [schedule](schedule.html) f
 #### Where is it
 [UNSW Health Translation Hub](https://www.unsw.edu.au/precincts/rhip/hth) located on the corner of High Street and Botany Street Randwick
 
-### Who can participate?
+#### Who can participate?
 * UNSW students interested in analysing health data.
 * Enrol as a team of 4.
 
-### What skills do I need?
+#### What skills do I need?
 
 The approach to the datathon challenge is open ended---you could be working on a sophisticated prediction model, a patient-facing dashboard, or data-cleaning pipeline. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.
 
+#### The data
 
-### The data
+Participants will analyse data from the Australian and New Zealand Hip Fracture Registry (ANZHFR). Check out the [data](data.html) page for more details. 
 
-Participants will analyse real-world data from the Australia, and New Zealand Hip Fracture Registry (ANZHFR). Check out the [data](data.html) page for more details. 
+#### The prizes
 
-
-### Registration
-
-Register online [here](rte.ie). All team members must register. 
+Top ranked teams will share in over $1,500 in prizes. 
 
 
-### Contact
+#### Registration
 
-For questions, information or accessibility queries, please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a> from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the [registration form](https://forms.office.com/r/K2RQZeb1VF). 
+Register online [here](https://forms.office.com/r/0aZ8vhheDM). All team members **must** register. 
+
+
+#### Contact
+
+For questions, information or accessibility queries, please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a> from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the [registration form](https://forms.office.com/r/0aZ8vhheDM). 
 
 ::: {.oscar}
 
