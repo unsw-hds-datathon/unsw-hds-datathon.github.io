@@ -2,18 +2,27 @@
 title: "Registration"
 ---
 
+::: {.column-screen style = "background-color: #f7b500; color: black; text-align: center; padding: 10px"}
+Registration for the 2025 datathon is now closed! 
+
+Fill in your details [here](https://forms.office.com/r/Yiv7v5AUrK) to join the waiting list and to sign up to be first in line next year!
+:::
+
+::: {style="color:lightgrey"}
+
 ::: {.callout-tip}
 
 In order to register you are required to download and sign a [Data Usage Agreement](https://unsw.sharepoint.com/:b:/r/sites/Datathon77/Shared%20Documents/General/2025-Datathon/07-Data%20Usage%20Agreement/ANZHFR%20Data%20Usage%20Agreement.pdf?csf=1&web=1&e=a2hNOw), so we recommend to register on a desktop/laptop. 
 
 :::
 
+
 * You can register as a team of up to 4 people or as an individual (enter the team name **Individual**)
 * **All** team members must register
 * Teams should decide on a team name in advance---this is required to register and will be used to link you to your team mates. If registering on your own use the team name **Individual** to be assigned to a team. 
 * Teams with only 2-3 members will be paired with other participants to make a team of 4.
-* Register [here](https://forms.office.com/r/0aZ8vhheDM)
 
+:::
 
 # Changes of registration
 
