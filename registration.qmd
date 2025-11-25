@@ -3,9 +3,10 @@ title: "Registration"
 ---
 
 ::: {.column-screen style = "background-color: #f7b500; color: black; text-align: center; padding: 10px"}
-Registration for the 2025 datathon is now closed! 
 
-Fill in your details [here](https://forms.office.com/r/Yiv7v5AUrK) to join the waiting list and to sign up to be first in line next year!
+Registration for the 2025 datathon is now full subscribed! 
+
+Fill in your details [here](https://forms.office.com/r/Yiv7v5AUrK) to join the waiting list for this year and to sign up to be first in line next year!
 :::
 
 ::: {style="color:lightgrey"}
