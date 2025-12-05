@@ -26,9 +26,9 @@ The schedule is subject to change. A Microsoft Teams Meeting link will be circul
 
 |  |     |
 |--|-----|
-| 08:30 - 09:00    | Registration     |
-| 09:00 - 09:30    | Welcome and introduction to domain experts |
-| 09:30 - 12:00    | Teams work on project |
+| 09:00 - 09:30    | Registration     |
+| 09:30 - 10:00    | Welcome and introduction to domain experts |
+| 10:00 - 12:00    | Teams work on project |
 | 12:00 - 13:00    | Lunch |
 | 13:00 - 17:00    | Teams work on project |
 
