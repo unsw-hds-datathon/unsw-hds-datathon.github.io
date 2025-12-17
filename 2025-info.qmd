@@ -1,8 +1,0 @@
----
-format:
-  html:
-    theme: [darkly]
----
-
-![](images/pelvis-scan-canva.png)
-

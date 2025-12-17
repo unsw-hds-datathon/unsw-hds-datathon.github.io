@@ -36,7 +36,7 @@ The second UNSW Health Data Science Datathon brought together more than fifty UN
 
 Two infectious disease experts from the EPIWATCH project were on hand throughout the event to guide the teams. They provided invaluable insights, answered questions, and offered feedback to help participants refine their approaches to analysing the data and crafting effective surveillance pipelines.
 
-![ Presenting ideas to infectious disease experts. 💛 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-83.jpg) 
+![ Presenting ideas to infectious disease experts. 💛 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](../images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-83.jpg) 
 
 
 The datathon wasn't just about coding and data; it was also about enjoyment and camaraderie. The teams enjoyed good food and had loads of fun. 

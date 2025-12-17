@@ -35,18 +35,11 @@
     "text": "Tip\n\n\n\nThis code of conduct has been adapted from the Statistical Society of Australia (SSA) Code of Conduct template.\n\n\nThe organisers of the UNSW Health Data Science Datathon are committed to providing an event that is welcoming and safe for all participants, is free from discrimination and harassment, and where all participants are treated with dignity and respect. Adherence to this Code of Conduct is a requirement for all event participants, and covers all aspects of the datathon, including online and in-person spaces, any pre-event sessions, the datathon event, any social events and all communication, including that via email or social media associated with the event. Unacceptable behaviour includes, but is not limited to:\n\nHarassment, including verbal comments relating to gender, sexual orientation, disability, race, ethnicity, religion, age, national origin, gender identity or expression, or physical appearance.\nInappropriate and/or unwanted physical contact.\nUnwelcome sexual attention, which can include inappropriate questions, jokes, or comments of a sexual nature or repeatedly asking for dates or contact information.\nUnwanted photography or recording.\nDiscriminatory or sexual images in public spaces.\nSustained or wilful disruption of talks or other events.\n\nTo report violations of this Code of Conduct, alert a member of the Response Team (names and contact details listed below). Reports may be made by people subject to, or witnesses of, unacceptable behaviour.\n\n\n\n\n\n\nCode of Conduct Response Team\n\n\n\n\nDr Sanja Lujic\nSenior Lecturer, Centre for Big Data Research in Health, UNSW Sydney s.lujic@unsw.edu.au.\n\n\nDr Oscar Perez Concha\nSenior Lecturer, Centre for Big Data Research in Health, UNSW Sydney o.perezconcha@unsw.edu.au.\n\n\n\nIf an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removal of the individual from the event. Reports of unacceptable behaviour may be communicated to UNSW Sydney.\nAll efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if the Code of Conduct Response Team deems it necessary for the safety of event attendees, action will be taken, including referral of the report to UNSW Sydney.\nThis Code of Conduct is designed to ensure that this event can be enjoyed by all participants. We hope you have an inspiring and enjoyable time.\n\n\n\n\n\n\nTip\n\n\n\nUNSW Sydney students should also be aware of the Student Code of Conduct in particular the sections pertaining to plagiarism. If you use code or other intellectual property as part of your datathon submission, the earlier work should be clearly referenced, just as you would do for an assessment.\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "2025-info.html",
-    "href": "2025-info.html",
+    "objectID": "test.html",
+    "href": "test.html",
     "title": "UNSW Health Data Science Datathon",
     "section": "",
     "text": "Back to top"
-  },
-  {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Registration for the 2025 datathon is now full subscribed!\nFill in your details here to join the waiting list for this year and to sign up to be first in line next year!\n\n\n\n\n\n\n\n\nTip\n\n\n\nIn order to register you are required to download and sign a Data Usage Agreement, so we recommend to register on a desktop/laptop.\n\n\n\nYou can register as a team of up to 4 people or as an individual (enter the team name Individual)\nAll team members must register\nTeams should decide on a team name in advance—this is required to register and will be used to link you to your team mates. If registering on your own use the team name Individual to be assigned to a team.\nTeams with only 2-3 members will be paired with other participants to make a team of 4.\n\n\n\nChanges of registration\nIf one or more team members can no longer attend you can either:\n\nSwap out with a new member. The new team member must fill in the registration form. The departing team member should email the organisers at m.hanly@unsw.edu.au to withdraw.\nWithdraw the entire team from the datathon. Email the organisers at m.hanly@unsw.edu.au to withdraw all team members.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html",
@@ -63,13 +56,83 @@
     "text": "The UNSW Health Data Science Datathon\nA two-day datathon where teams will work together to analyse real-world hip fracture data. Participants will develop a full data science pipeline with prizes awarded for the best submission.\n\nKey Details\n\nWhen is it?\nThursday 11 - Friday 12 December 2025. Check out the schedule for more details\n\n\nWhere is it\nUNSW Health Translation Hub located on the corner of High Street and Botany Street Randwick\n\n\nWho can participate?\n\nUNSW students interested in analysing health data.\nEnrol as a team of 4 or as an individual to be placed in a team.\n\n\n\nWhat skills do I need?\nThe approach to the datathon challenge is open ended—you could be working on a sophisticated prediction model, a patient-facing dashboard, or data-cleaning pipeline. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.\n\n\nThe data\nParticipants will analyse data from the Australian and New Zealand Hip Fracture Registry (ANZHFR). Check out the data page for more details.\n\n\nThe prizes\nTop ranked teams will share in over $1,500 in prizes.\n\n\nRegistration\nRegister online here. All team members must register. Register as a team of 4 or enter the team name Individual to enrol individually and be placed in a team.\n\n\nContact\nFor questions, information or accessibility queries, please contact Dr Oscar Perez Concha from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the registration form.\n\n\nMenú del día\n\n\nGambas Pil Pil\nPatatas Bravas\nHelados"
   },
   {
-    "objectID": "archive/2023-judging-criteria.html",
-    "href": "archive/2023-judging-criteria.html",
-    "title": "Judging criteria",
+    "objectID": "archive/2025-info.html",
+    "href": "archive/2025-info.html",
+    "title": "Overview",
     "section": "",
-    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nResearch Question\nAnalysis\nCommunicating results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nResearch question\n⅓\n\nClearly expressed and focused\nOperationalisable\nAchievable in the available time\n\n\n\nAnalysis\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nCommunicating results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nUnderstanding translation potential\n\n\n\n\n\n\n\n Back to top",
+    "text": "Thursday 11 – Friday 12 December 2025\n    \n      \n         Details",
     "crumbs": [
-      "Judging criteria"
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "archive/2025-info.html#the-unsw-health-data-science-datathon",
+    "href": "archive/2025-info.html#the-unsw-health-data-science-datathon",
+    "title": "Overview",
+    "section": "The UNSW Health Data Science Datathon",
+    "text": "The UNSW Health Data Science Datathon\nA two-day datathon where teams will work together to analyse real-world hip fracture data. Participants will develop a full data science pipeline with prizes awarded for the best submission.\n\nKey Details\n\nWhen is it?\nThursday 11 - Friday 12 December 2025. Check out the schedule for more details\n\n\nWhere is it\nUNSW Health Translation Hub located on the corner of High Street and Botany Street Randwick\n\n\nWho can participate?\n\nUNSW students interested in analysing health data.\nEnrol as a team of 4 or as an individual to be placed in a team.\n\n\n\nWhat skills do I need?\nThe approach to the datathon challenge is open ended—you could be working on a sophisticated prediction model, a patient-facing dashboard, or data-cleaning pipeline. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.\n\n\nThe data\nParticipants will analyse data from the Australian and New Zealand Hip Fracture Registry (ANZHFR). Check out the data page for more details.\n\n\nThe prizes\nTop ranked teams will share in over $1,500 in prizes.\n\n\nRegistration\nRegister online here. All team members must register. Register as a team of 4 or enter the team name Individual to enrol individually and be placed in a team.\n\n\nContact\nFor questions, information or accessibility queries, please contact Dr Oscar Perez Concha from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the registration form.\n\n\nMenú del día\n\n\nGambas Pil Pil\nPatatas Bravas\nHelados",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "archive/2025-review.html",
+    "href": "archive/2025-review.html",
+    "title": "Highlights",
+    "section": "",
+    "text": "Analysing the Australian and New Zealand Hip Fracture Registry data",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2025-review.html#key-figures",
+    "href": "archive/2025-review.html#key-figures",
+    "title": "Highlights",
+    "section": "Key figures",
+    "text": "Key figures\n\n\n70 Students 👩🏽‍🎓 from 14 different UNSW schools and research centres 🏫\n18 Teams 🤝\n90,000+ Hip Fracture records 📈\nFive ANZHFR Clinical and Registry experts 👩🏼‍⚕️\nOne winning team 🌟",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2025-review.html#overview-of-the-event",
+    "href": "archive/2025-review.html#overview-of-the-event",
+    "title": "Highlights",
+    "section": "Overview of the event",
+    "text": "Overview of the event\nThe third UNSW Health Data Science Datathon brought together seventy UNSW students across eighteen teams on 11-12 December, 2025. Participants dived into the Australian and New Zealand Hip Fracture Registry data, tackling one of four challenges:\n\nClinical dashboard (Patient-facing or clinician-facing)\nCohort selector tool\nEstimating causal effects\nPredicting post-surgery outcomes\n\n\n\n\nUNSW students in action 💻  Credit: Cassandra Hannagan \n\n\nFive clinical and registry data experts from the ANZHFR were on hand over the course of the event. They provided invaluable insights, answered questions, and offered feedback to help participants refine their research questions and to understand the tricky nature of clinical registry data.\n\n\n\nPresenting ideas to ANZHFR experts. 💛  Credit: Cassandra Hannagan \n\n\nDatathon participants also had the opportunity to work in the new Digital Health Hub, a purpose-built environment for exploring and presenting data at scale.\n\n\n\nFront-end at scale!  Credit: Cassandra Hannagan \n\n\nOn Day 2, finalist teams presented their work to a panel of judges.\n\n\n\nStudents presenting their work 💛  Credit: Cassandra Hannagan",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2025-review.html#announcing-the-winners",
+    "href": "archive/2025-review.html#announcing-the-winners",
+    "title": "Highlights",
+    "section": "Announcing the winners",
+    "text": "Announcing the winners\n\n1st Place2nd Place3rd Place4th Place\n\n\n\nJoint Ventures\n\n\n\nWinners: Quang Minh Phan, Lithira Mahagoda, Yashwanth Madan, Junle Zhou and Professor Cheryl Jones (Dean, Faculty of Medicine and Health)  Credit: Cassandra Hannagan \n\n\n\nDevelopment of predictive models for patient outcomes.\nCan we predict if a patient will experience post-operative delirium, based on personal and pre-operative characteristics?\nApproach: Build machine learning models combine models with ensemble stacking, Bayesian hierarchical model, full-stack production application\nResults: Ensemble stacking models able to predict post-operative delirium with 80% AUC. Identified causal relationship between top features with Bayesian network.\nConclusion Post-operative delirium is predictable from pre-operative characteristics. Production-ready web application enables real-time risk assessment for clinicians, improving patient outcomes.\n\n\n\n\n\nICU Rizz\n\n\n\nSecond Place: Vaibhav Jha, Siddharth Choudhury, Ujan Pal, Vansh Jain and Professor Cheryl Jones (Dean, Faculty of Medicine and Health)  Credit: Cassandra Hannagan \n\n\n\nDevelopment of predictive models for patient outcomes.\nApproach: We refined the dataset through strict cleaning, removing inconsistent records, selecting clinically relevant predictors, and applying logical imputations. This produced a high-quality, structured dataset ready for modelling 120-day functional walking recovery.\nResults: The Random Forest model achieved 70% accuracy, performing strongly for recovered and declined classes. Severe-decline predictions remained challenging, reflecting class imbalance. Overall, the cleaned dataset enabled stable, clinically aligned predictive performance across major outcome groups.\nConclusion Despite difficulty predicting severe decline, key predictors behaved consistently, supporting future model refinement and stronger clinical collaboration to enhance patient outcome prediction.\n\n\n\n\n\nSatra\n\n\n\nThird Place: Jiahui Di, Oliver D’Souza, Ishu Rajput, Corin Zhang and Professor Cheryl Jones (Dean, Faculty of Medicine and Health)  Credit: Cassandra Hannagan \n\n\n\nConsumer dashboard\nApproach: Total rebuild of ANZHFR landing page. Constructed an interactive consumer dashboard using React and Vite. Delivers critical information to carers and family.\nInteractive Dashboard for advanced statistic view built using Streamlit.\nDelirium Estimation tool utilising CatBoost algorithm.\nResults: Deliver resources and statistics to a consumer audience.  Operational interactive dashboard gives customizable insights Delirium Predictor achieves AUC = 0.81, Recall = 0.73\n\n\n\n\n\n\nHip Injury Not Found\n\n\n\nFourth Place: Gichia Muiruri, Vivian Jiang and Professor Cheryl Jones (Dean, Faculty of Medicine and Health)  Credit: Cassandra Hannagan \n\n\n\nANZHFR Cohort Builder\nApproach: Front-end is created using React for an interactive dashboard by sending API requests to the back-end (Python). Users input filter conditions to subset data.\nResults: A functioning cohort builder prototype that filters hip fracture data as specified by the user and presents key visualisations and summaries from this subset. These cohorts can then be saved and compared.\nConclusion This cohort builder allows for researchers to quickly check for sufficient data in specific cohorts and explore viability for future research by comparing specified patient groups.\n\n\n\n\n\n\nCongratulations to all the participants!",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2025-review.html#what-our-participants-said",
+    "href": "archive/2025-review.html#what-our-participants-said",
+    "title": "Highlights",
+    "section": "What our participants said",
+    "text": "What our participants said\n\n\n\n\nBased on your experience at the datathon, would you recommend it to other students?\n\n\n\n\n\n\n\n\n100%\n\n\nAGREE\n\n\n\n\n\n\n\n\nI really enjoyed the overall learning experience, particularly the opportunity to work with real-world health data and apply data science concepts in a practical, collaborative setting. The mentoring and facilitation throughout the datathon were excellent. The organisers were attentive, approachable, and supportive, which created a welcoming environment for learning and experimentation. The structure of the event also encouraged problem-solving, teamwork, and critical thinking.\n\n\n\n\n\n\n\n\n\n\n\n\nI particularly enjoyed interacting with members of the ANZFER team and receiving guidance from our professors. Additionally, I found it insightful to observe how participants from different departments approached problem-solving from diverse perspectives, and I appreciated the well-organized arrangements of the datathon.\n\n\n\n\n\n\n\n\n\nFood was amazing\n\n\n\n\n\n\n\n\n\n\n\n\nI learn so many new things from my friends with a health background.",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "archive/2025-review.html#picture-gallery",
+    "href": "archive/2025-review.html#picture-gallery",
+    "title": "Highlights",
+    "section": "Picture gallery",
+    "text": "Picture gallery\nExplore the images from the day below. Credit for all images to Cassandra Hannagan.",
+    "crumbs": [
+      "Highlights"
     ]
   },
   {
@@ -143,33 +206,53 @@
     ]
   },
   {
-    "objectID": "archive/2024-data.html#epiwatch",
-    "href": "archive/2024-data.html#epiwatch",
+    "objectID": "archive/2025-data.html#australian-new-zealand-hip-fracture-registry",
+    "href": "archive/2025-data.html#australian-new-zealand-hip-fracture-registry",
     "title": "Data",
-    "section": "EPIWATCH\\(^®\\)",
-    "text": "EPIWATCH\\(^®\\)\nYou will be analysing the EPIWATCH\\(^®\\) dataset.\nEPIWATCH\\(^®\\) is an AI-based system that harnesses open-source data to generate automated early warnings of epidemics worldwide. The system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated and non-curated online news sources, including the WHO, CDC and Google News.\nEach record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original online article.\nYou can learn more about EPIWATCH\\(^®\\) at epiwatch.org/products and read about the potential for AI-based digital surveillance to act as automated early warning systems in MacIntyre et al. (2023).",
+    "section": "Australian & New Zealand Hip Fracture Registry",
+    "text": "Australian & New Zealand Hip Fracture Registry\nThis year’s datathon will use synthetic data from the Australian and New Zealand Hip Fracture Registry. This data resource can be used to address important health questions that will require you to develop statistical or machine learning models of patient outcomes, visualise patient data, or build front end applications to explore or summarise the data.",
     "crumbs": [
       "Data"
     ]
   },
   {
-    "objectID": "archive/2024-data.html#initial-data-release",
-    "href": "archive/2024-data.html#initial-data-release",
+    "objectID": "archive/2025-data.html#the-problem",
+    "href": "archive/2025-data.html#the-problem",
     "title": "Data",
-    "section": "Initial data release",
-    "text": "Initial data release\nThe EPIWATCH\\(^®\\) data will be released on Friday 29th November, one week ahead of the datathon.",
+    "section": "The Problem",
+    "text": "The Problem\n\nThe risk of falls and fractures increases with age. Each year, approximately 19,000 patients in Australia and 4,000 patients in New Zealand present with a new hip fracture. These presentations are projected to increase in the foreseeable future, as are the associated costs to individual patients, their families, the community and the healthcare system.",
     "crumbs": [
       "Data"
     ]
   },
   {
-    "objectID": "archive/2024-data.html#live-updates",
-    "href": "archive/2024-data.html#live-updates",
+    "objectID": "archive/2025-data.html#the-registry",
+    "href": "archive/2025-data.html#the-registry",
     "title": "Data",
-    "section": "Live updates",
-    "text": "Live updates\nTo simulate the experience of real-time surveillance, the dataset will be updated with an additional day of data every 5 minutes over the course of 90 minutes on Day 2 of the datathon. Updates will be appended to the initial release and available via the same link.",
+    "section": "The Registry",
+    "text": "The Registry\n\nThe Australian and New Zealand Hip Fracture Registry (ANZHFR) is a clinical quality registry that collects data about older people admitted to hospital with a broken hip in Australia and New Zealand. The registry is managed by a group clinicians and experts in the field with representation from a number of key professional organisations.",
     "crumbs": [
       "Data"
+    ]
+  },
+  {
+    "objectID": "archive/2025-data.html#purpose",
+    "href": "archive/2025-data.html#purpose",
+    "title": "Data",
+    "section": "Purpose",
+    "text": "Purpose\n\nThe ANZHFR is designed to allow hospitals to audit the care they provide against key markers of safe, high quality care. The data can then be used to improve clinical performance, examine national trends, advocate for better clinical care and ultimately optimise patient outcomes\n\nsource: anzhfr.org",
+    "crumbs": [
+      "Data"
+    ]
+  },
+  {
+    "objectID": "archive/2025-judging-criteria.html",
+    "href": "archive/2025-judging-criteria.html",
+    "title": "Judging criteria",
+    "section": "",
+    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nResearch framing\nAnalytic approach\nCommunication of results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nResearch framing\n⅓\n\nUnderstanding of question\nConnection to context\nFeasibility and originality\n\n\n\nAnalytic approach\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nCommunication of results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nTranslation potential\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Judging criteria"
     ]
   },
   {
@@ -255,6 +338,36 @@
     "title": "Data",
     "section": "Data versions and download links",
     "text": "Data versions and download links\nPlease note there are two versions of the Antiretroviral Therapy in HIV dataset. For the datathon we will be using Version 2. The Health Gym v2.0 Synthetic Antiretroviral Therapy (ART) for HIV Dataset can be downloaded here (figshare.com)\nVersion 1 of the dataset is currently posted on HealthGym.ai. The variable names and data structure are similar so if you have done some initial exploration using Version 1 you can easily transfer to Version 2.",
+    "crumbs": [
+      "Data"
+    ]
+  },
+  {
+    "objectID": "archive/2024-data.html#epiwatch",
+    "href": "archive/2024-data.html#epiwatch",
+    "title": "Data",
+    "section": "EPIWATCH\\(^®\\)",
+    "text": "EPIWATCH\\(^®\\)\nYou will be analysing the EPIWATCH\\(^®\\) dataset.\nEPIWATCH\\(^®\\) is an AI-based system that harnesses open-source data to generate automated early warnings of epidemics worldwide. The system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated and non-curated online news sources, including the WHO, CDC and Google News.\nEach record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original online article.\nYou can learn more about EPIWATCH\\(^®\\) at epiwatch.org/products and read about the potential for AI-based digital surveillance to act as automated early warning systems in MacIntyre et al. (2023).",
+    "crumbs": [
+      "Data"
+    ]
+  },
+  {
+    "objectID": "archive/2024-data.html#initial-data-release",
+    "href": "archive/2024-data.html#initial-data-release",
+    "title": "Data",
+    "section": "Initial data release",
+    "text": "Initial data release\nThe EPIWATCH\\(^®\\) data will be released on Friday 29th November, one week ahead of the datathon.",
+    "crumbs": [
+      "Data"
+    ]
+  },
+  {
+    "objectID": "archive/2024-data.html#live-updates",
+    "href": "archive/2024-data.html#live-updates",
+    "title": "Data",
+    "section": "Live updates",
+    "text": "Live updates\nTo simulate the experience of real-time surveillance, the dataset will be updated with an additional day of data every 5 minutes over the course of 90 minutes on Day 2 of the datathon. Updates will be appended to the initial release and available via the same link.",
     "crumbs": [
       "Data"
     ]
@@ -360,6 +473,16 @@
     ]
   },
   {
+    "objectID": "archive/2023-judging-criteria.html",
+    "href": "archive/2023-judging-criteria.html",
+    "title": "Judging criteria",
+    "section": "",
+    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nResearch Question\nAnalysis\nCommunicating results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nResearch question\n⅓\n\nClearly expressed and focused\nOperationalisable\nAchievable in the available time\n\n\n\nAnalysis\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nCommunicating results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nUnderstanding translation potential\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Judging criteria"
+    ]
+  },
+  {
     "objectID": "archive/2024-info.html",
     "href": "archive/2024-info.html",
     "title": "Overview",
@@ -460,18 +583,11 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "UNSW Health Data Science Datathon",
-    "section": "",
-    "text": "Back to top"
+    "text": "Registration for the 2025 datathon is now full subscribed!\nFill in your details here to join the waiting list for this year and to sign up to be first in line next year!\n\n\n\n\n\n\n\n\nTip\n\n\n\nIn order to register you are required to download and sign a Data Usage Agreement, so we recommend to register on a desktop/laptop.\n\n\n\nYou can register as a team of up to 4 people or as an individual (enter the team name Individual)\nAll team members must register\nTeams should decide on a team name in advance—this is required to register and will be used to link you to your team mates. If registering on your own use the team name Individual to be assigned to a team.\nTeams with only 2-3 members will be paired with other participants to make a team of 4.\n\n\n\nChanges of registration\nIf one or more team members can no longer attend you can either:\n\nSwap out with a new member. The new team member must fill in the registration form. The departing team member should email the organisers at m.hanly@unsw.edu.au to withdraw.\nWithdraw the entire team from the datathon. Email the organisers at m.hanly@unsw.edu.au to withdraw all team members.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "organisers.html",

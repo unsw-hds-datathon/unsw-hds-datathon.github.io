@@ -16,6 +16,12 @@ website:
   repo-url: https://github.com/unsw-hds-datathon
   back-to-top-navigation: true
   page-navigation: true
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "Keep on eye on this page for information about the 2026 Student Health Data Science Datathon"
+    type: primary
+    position: below-navbar
   navbar:
     left:
       - text: "Home"
@@ -42,6 +48,9 @@ website:
       - text: "Archive"
         icon: code
         menu:
+          - text: "2025"
+            href: archive/2025-review.qmd
+            icon: person-wheelchair
           - text: "2024"
             href: archive/2024-review.qmd
             icon: virus
@@ -50,6 +59,13 @@ website:
             icon: capsule-pill
 
   sidebar:
+
+    - title: "2025"
+      contents:
+      - archive/2025-review.qmd
+      - archive/2025-info.qmd
+      - archive/2025-data.qmd
+      - archive/2025-judging-criteria.qmd
 
     - title: "2024"
       contents:

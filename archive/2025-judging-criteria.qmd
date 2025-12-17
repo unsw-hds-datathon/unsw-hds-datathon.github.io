@@ -1,0 +1,30 @@
+---
+title: "Judging criteria"
+format:
+  html:
+    theme: [minty, 2025-custom.scss]
+---
+
+Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:
+
+1. Research framing
+1. Analytic approach
+1. Communication of results
+
+The table below breaks down some of the things you should consider for each domain.
+
++------------------------+--------+---------------------------------------------------+
+| Domain                 | Weight | Things to consider                                |
++:=======================+:======:+:==================================================+
+| Research framing       | ⅓      | - Understanding of question                       |
+|                        |        | - Connection to context                           |
+|                        |        | - Feasibility and originality                     |
++------------------------+--------+---------------------------------------------------+
+| Analytic approach      | ⅓      | - Data cleaning and preparation                   |
+|                        |        | - Choice and implementation of analytic method    |
+|                        |        | - Code and reproducibility                        |
++------------------------+--------+---------------------------------------------------+
+| Communication of       | ⅓      | - Presentation of results (tables/visualisations) |
+| results                |        | - Oral presentation                               |
+|                        |        | - Translation potential                           |
++------------------------+--------+---------------------------------------------------+
