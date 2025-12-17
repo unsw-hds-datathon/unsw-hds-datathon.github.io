@@ -23,6 +23,8 @@ format:
   
 -   **Five** ANZHFR Clinical and Registry experts 👩🏼‍⚕️
 
+-   **Two** Health Data Scientists from the Centre for Big Data Research in Health [organising the event](../organisers.qmd)
+
 -   **One** winning team 🌟
 
 </div>
@@ -95,7 +97,7 @@ _Can we predict if a patient will experience post-operative delirium, based on p
 
 ### Satra
 
-![**Third Place:** Jiahui Di, Oliver D'Souza, Ishu Rajput, Corin Zhang and Professor Cheryl Jones (Dean, Faculty of Medicine and Health)  <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](../images/LoRes2025/Datathon2025_UNSW_Credit_CassandraHannagan-394.jpg)
+![**Third Place:** Jiahui Di, Oliver D'Souza, Ishu Rajput, Corin Zhang and Professor Cheryl Jones (Dean, Faculty of Medicine and Health). Not pictured: Jason Setiadi  <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](../images/LoRes2025/Datathon2025_UNSW_Credit_CassandraHannagan-394.jpg)
 
 #### Consumer dashboard
 
@@ -121,7 +123,6 @@ Delirium Predictor achieves AUC = 0.81, Recall = 0.73
 #### ANZHFR Cohort Builder
 
 **Approach:** Front-end is created using React for an interactive dashboard by sending API requests to the back-end (Python). Users input filter conditions to subset data. 
-
 
 **Results:** A functioning cohort builder prototype that filters hip fracture data as specified by the user and presents key visualisations and summaries from this subset. These cohorts can then be saved and compared.
 
@@ -186,7 +187,7 @@ Congratulations to all the participants!
 :::
 
 ::: {.g-col-9}
-> _I particularly enjoyed interacting with members of the ANZFER team and receiving guidance from our professors. Additionally, I found it insightful to observe how participants from different departments approached problem-solving from diverse perspectives, and I appreciated the well-organized arrangements of the datathon._
+> _I particularly enjoyed interacting with members of the ANZHFR team and receiving guidance from our professors. Additionally, I found it insightful to observe how participants from different departments approached problem-solving from diverse perspectives, and I appreciated the well-organized arrangements of the datathon._
 :::
 
 :::
