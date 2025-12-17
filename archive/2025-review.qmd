@@ -229,10 +229,18 @@ Explore the images from the day below. Credit for all images to [Cassandra Hanna
 
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));grid-gap: .5em; inline-size: 100%;"}
 ```{r, results='asis', echo=FALSE, warning=FALSE, message=FALSE}
-nPics <- length(list.files(here::here("images/LoRes2025")))
+pics <- list.files(
+  here::here("images/LoRes2025"),
+  pattern = "\\.jpg$"
+)
 
-for (i in 1:nPics) {
-  cat("![](../images/LoRes2025/Datathon2025_UNSW_Credit_CassandraHannagan-", i, ".jpg){group='my-gallery'}\n\n", sep='')
+# extract the numeric part and order by it
+nums <- as.numeric(gsub(".*-(\\d+)\\.jpg$", "\\1", pics))
+pics <- pics[order(nums)]
+
+for (p in pics) {
+  cat("![](../images/LoRes2025/", p, "){group='my-gallery'}\n\n", sep = "")
 }
+
 ```
 :::
