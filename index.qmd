@@ -18,7 +18,7 @@ format:
 </p>
 
 <div class="event-hero__details">
-  <p><strong>Date</strong> Thu 10 - Fri 11 Dec</p>
+  <p><strong>Date</strong> Thu 10 - Fri 11 Dec 2026</p>
   <p><strong>Location</strong> Health Translation Hub, UNSW Sydney</p>
 </div>
 
@@ -33,11 +33,11 @@ href="/registration.qmd">
 
 ## What is it?
 
-A two-day datathon where teams will work together to analyse real-world infectious disease monitoring data. Participants will develop a full data science pipeline with prizes awarded for the best submission. 
+A two-day datathon where teams will work together to analyse real-world health data. Participants will develop a full data science pipeline with prizes awarded for the best submission. 
 
 ## When is it?
 
--   **Thursday 3 December**, 3--4pm: Online introductory session
+-   **Friday 4 December**, 4--5pm: Online introductory session
 <div style = "font-size: 0.8em; font-weight:100;">
 _Recordings will be made available for people who can't make this session, although attendance is strongly encouraged_
 </div>
@@ -60,11 +60,11 @@ The approach to the datathon challenge is open ended---it could be a sophisticat
 
 ## The data
 
-Participants will analyse deidentified real-world data on residential aged care quality from [Uniting](https://www.uniting.org), an Australian non-for-profit providing care and support through every life stage. Check out the [Data](/data.qmd) page for more information. 
+Participants will analyse deidentified real-world data on residential aged care quality from [Uniting](https://www.uniting.org), an Australian not-for-profit providing care and support through every life stage. Check out the [Data](/data.qmd) page for more information. 
 
 ## The datathon
 
-### Pre-event: data release and online information session (Thursday 3rd December, 3-4pm)
+### Pre-event: data release and online information session (Friday 4th December, 4-5pm)
 
 This is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential analytic strategies.   
 
@@ -80,7 +80,7 @@ Visit the [registration page](registration.qmd) for details about registration.
 
 ## Contact
 
-For questions, information or accessibility queries please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a> from the Center for Big Data Research in Health, UNSW. Accessibility requirements can be noted during registration. 
+For questions, information or accessibility queries please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a> from the Centre for Big Data Research in Health, UNSW. Accessibility requirements can be noted during registration. 
 
 ::: {.oscar}
 

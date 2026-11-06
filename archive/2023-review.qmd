@@ -58,7 +58,7 @@ The [Antiretroviral Therapy in HIV dataset](2023-data.qmd) comprises viral loads
 ![](../images/cd4-over-time.gif)
 
 <div style="font-size: 0.8em">
-The ART HIV dataset included demographic details and longitudinal clinical data on drug combinations and CD4 counts for nearly 9,000 patients. Common baseline drug regimes included tenofovir disoproxil & emtricitabine [(FTC+TDF)]{style="color:#ED217C"} and abacavir & lamivudine [ (3TC+ABC) ]{style="color:#FFFD82"} Several of the teams choose to implement machine learning models to predict future CD4 outcomes based on previous values, demographics and treatment values.
+The ART HIV dataset included demographic details and longitudinal clinical data on drug combinations and CD4 counts for nearly 9,000 patients. Common baseline drug regimes included tenofovir disoproxil & emtricitabine [(FTC+TDF)]{style="color:#ED217C"} and abacavir & lamivudine [ (3TC+ABC) ]{style="color:#FFFD82"} Several of the teams chose to implement machine learning models to predict future CD4 outcomes based on previous values, demographics and treatment values.
 </div>
 
 
@@ -79,7 +79,7 @@ The ART HIV dataset included demographic details and longitudinal clinical data 
 ::: {.g-col-5}
 <div style="color:#289a92;">
 
-<div style="font-size:4em; margin:-20px; padding:0px;">100%</div> <div style="font-size:1em; margin:0px">DEFINATELY</div>
+<div style="font-size:4em; margin:-20px; padding:0px;">100%</div> <div style="font-size:1em; margin:0px">DEFINITELY</div>
 
 </div>
 

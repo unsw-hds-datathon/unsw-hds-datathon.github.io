@@ -32,7 +32,7 @@
     "href": "code-of-conduct.html",
     "title": "Code of Conduct",
     "section": "",
-    "text": "Note\n\n\n\nThis code of conduct has been adapted from the Statistical Society of Australia (SSA) Code of Conduct template.\n\n\nThe organisers of the UNSW Health Data Science Datathon are committed to providing an event that is welcoming and safe for all participants, is free from discrimination and harassment, and where all participants are treated with dignity and respect. Adherence to this Code of Conduct is a requirement for all event participants, and covers all aspects of the datathon, including online and in-person spaces, any pre-event sessions, the datathon event, any social events and all communication, including that via email or social media associated with the event. Unacceptable behaviour includes, but is not limited to:\n\nHarassment, including verbal comments relating to gender, sexual orientation, disability, race, ethnicity, religion, age, national origin, gender identity or expression, or physical appearance.\nInappropriate and/or unwanted physical contact.\nUnwelcome sexual attention, which can include inappropriate questions, jokes, or comments of a sexual nature or repeatedly asking for dates or contact information.\nUnwanted photography or recording.\nDiscriminatory or sexual images in public spaces.\nSustained or wilful disruption of talks or other events.\n\nTo report violations of this Code of Conduct, alert a member of the Response Team (names and contact details listed below). Reports may be made by people subject to, or witnesses of, unacceptable behaviour.\n\n\n\n\n\n\nCode of Conduct Response Team\n\n\n\n\nDr Sanja Lujic\nSenior Lecturer, Centre for Big Data Research in Health, UNSW Sydney s.lujic@unsw.edu.au.\n\n\nDr Oscar Perez Concha\nSenior Lecturer, Centre for Big Data Research in Health, UNSW Sydney o.perezconcha@unsw.edu.au.\n\n\n\nIf an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removal of the individual from the event. Reports of unacceptable behaviour may be communicated to UNSW Sydney.\nAll efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if the Code of Conduct Response Team deems it necessary for the safety of event attendees, action will be taken, including referral of the report to UNSW Sydney.\nThis Code of Conduct is designed to ensure that this event can be enjoyed by all participants. We hope you have an inspiring and enjoyable time.\n\n\n\n\n\n\nNote\n\n\n\nUNSW Sydney students should also be aware of the Student Code of Conduct in particular the sections pertaining to plagiarism. If you use code or other intellectual property as part of your datathon submission, the earlier work should be clearly referenced, just as you would do for an assessment.\n\n\n\n\n\n Back to top"
+    "text": "Note\n\n\n\nThis code of conduct has been adapted from the Statistical Society of Australia (SSA) Code of Conduct template.\n\n\nThe organisers of the UNSW Health Data Science Datathon are committed to providing an event that is welcoming and safe for all participants, is free from discrimination and harassment, and where all participants are treated with dignity and respect. Adherence to this Code of Conduct is a requirement for all event participants, and covers all aspects of the datathon, including online and in-person spaces, any pre-event sessions, the datathon event, any social events and all communication, including that via email or social media associated with the event. Unacceptable behaviour includes, but is not limited to:\n\nHarassment, including verbal comments relating to gender, sexual orientation, disability, race, ethnicity, religion, age, national origin, gender identity or expression, or physical appearance.\nInappropriate and/or unwanted physical contact.\nUnwelcome sexual attention, which can include inappropriate questions, jokes, or comments of a sexual nature or repeatedly asking for dates or contact information.\nUnwanted photography or recording.\nDiscriminatory or sexual images in public spaces.\nSustained or wilful disruption of talks or other events.\n\nTo report violations of this Code of Conduct, alert a member of the Response Team (names and contact details listed below). Reports may be made by people subject to, or witnesses of, unacceptable behaviour.\n\n\n\n\n\n\nCode of Conduct Response Team\n\n\n\n\nDr Sanja Lujic\nSenior Lecturer, Centre for Big Data Research in Health, UNSW Sydney s.lujic@unsw.edu.au.\n\n\nDr Oscar Perez Concha\nSenior Lecturer, Centre for Big Data Research in Health, UNSW Sydney o.perezconcha@unsw.edu.au.\n\n\n\nIf an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removing the individual from the event. Reports of unacceptable behaviour may be communicated to UNSW Sydney.\nAll efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if the Code of Conduct Response Team deems it necessary for the safety of event attendees, action will be taken, including referral of the report to UNSW Sydney.\nThis Code of Conduct is designed to ensure that this event can be enjoyed by all participants. We hope you have an inspiring and enjoyable time.\n\n\n\n\n\n\nNote\n\n\n\nUNSW Sydney students should also be aware of the Student Code of Conduct in particular the sections pertaining to plagiarism. If you use code or other intellectual property as part of your datathon submission, the earlier work should be clearly referenced, just as you would do for an assessment.\n\n\n\n\n\n\n\n\nUse of generative AI (genAI)\n\n\n\nWhile use of genAI is allowed, under no circumstances should you enter or upload any of the datathon data to any genAI tool or service.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "test.html",
@@ -46,21 +46,21 @@
     "href": "index.html",
     "title": "\nUNSW Health Data Science Datathon\n",
     "section": "",
-    "text": "Upcoming event\n\n\n\nUse your data and coding skills to solve real-world health challenges.\n\n\n\nDate Thu 10 - Fri 11 Dec\n\n\nLocation Health Translation Hub, UNSW Sydney\n\n\n Register now"
+    "text": "Upcoming event\n\n\n\nUse your data and coding skills to solve real-world health challenges.\n\n\n\nDate Thu 10 - Fri 11 Dec 2026\n\n\nLocation Health Translation Hub, UNSW Sydney\n\n\n Register now"
   },
   {
     "objectID": "index.html#what-is-it",
     "href": "index.html#what-is-it",
     "title": "\nUNSW Health Data Science Datathon\n",
     "section": "What is it?",
-    "text": "What is it?\nA two-day datathon where teams will work together to analyse real-world infectious disease monitoring data. Participants will develop a full data science pipeline with prizes awarded for the best submission."
+    "text": "What is it?\nA two-day datathon where teams will work together to analyse real-world health data. Participants will develop a full data science pipeline with prizes awarded for the best submission."
   },
   {
     "objectID": "index.html#when-is-it",
     "href": "index.html#when-is-it",
     "title": "\nUNSW Health Data Science Datathon\n",
     "section": "When is it?",
-    "text": "When is it?\n\nThursday 3 December, 3–4pm: Online introductory session\n\nRecordings will be made available for people who can’t make this session, although attendance is strongly encouraged\n\nThursday 10th and Friday 11th December, 9am–5pm: Main event"
+    "text": "When is it?\n\nFriday 4 December, 4–5pm: Online introductory session\n\nRecordings will be made available for people who can’t make this session, although attendance is strongly encouraged\n\nThursday 10th and Friday 11th December, 9am–5pm: Main event"
   },
   {
     "objectID": "index.html#who-can-participate",
@@ -88,14 +88,14 @@
     "href": "index.html#the-data",
     "title": "\nUNSW Health Data Science Datathon\n",
     "section": "The data",
-    "text": "The data\nParticipants will analyse deidentified real-world data on residential aged care quality from Uniting, an Australian non-for-profit providing care and support through every life stage. Check out the Data page for more information."
+    "text": "The data\nParticipants will analyse deidentified real-world data on residential aged care quality from Uniting, an Australian not-for-profit providing care and support through every life stage. Check out the Data page for more information."
   },
   {
     "objectID": "index.html#the-datathon",
     "href": "index.html#the-datathon",
     "title": "\nUNSW Health Data Science Datathon\n",
     "section": "The datathon",
-    "text": "The datathon\n\nPre-event: data release and online information session (Thursday 3rd December, 3-4pm)\nThis is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential analytic strategies.\n\n\nThe main event (Thursday 10th and Friday 11th December)\nYou will work with your team to develop and implement a data science pipeline to analyse Uniting’s residential aged care quality data. There is no restriction on choice of software or analytic approach. At the end of the second day, each team will present their solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts.\nLunch and morning tea and coffee will be provided. Dietary requirements can be noted in the registration form."
+    "text": "The datathon\n\nPre-event: data release and online information session (Friday 4th December, 4-5pm)\nThis is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential analytic strategies.\n\n\nThe main event (Thursday 10th and Friday 11th December)\nYou will work with your team to develop and implement a data science pipeline to analyse Uniting’s residential aged care quality data. There is no restriction on choice of software or analytic approach. At the end of the second day, each team will present their solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts.\nLunch and morning tea and coffee will be provided. Dietary requirements can be noted in the registration form."
   },
   {
     "objectID": "index.html#registration",
@@ -109,7 +109,7 @@
     "href": "index.html#contact",
     "title": "\nUNSW Health Data Science Datathon\n",
     "section": "Contact",
-    "text": "Contact\nFor questions, information or accessibility queries please contact Dr Oscar Perez Concha from the Center for Big Data Research in Health, UNSW. Accessibility requirements can be noted during registration.\n\n\nMenú del día\n\n\nGambas Pil Pil\nPatatas Bravas\nHelados"
+    "text": "Contact\nFor questions, information or accessibility queries please contact Dr Oscar Perez Concha from the Centre for Big Data Research in Health, UNSW. Accessibility requirements can be noted during registration.\n\n\nMenú del día\n\n\nGambas Pil Pil\nPatatas Bravas\nHelados"
   },
   {
     "objectID": "archive/2025-info.html",
@@ -346,7 +346,7 @@
     "href": "archive/2023-review.html#the-data",
     "title": "Highlights",
     "section": "The data",
-    "text": "The data\nThe Antiretroviral Therapy in HIV dataset comprises viral loads, CD4 counts, and drug regimen information for 8,916 patients with HIV. This is a synthetic dataset that has been developed using Generative Adversarial Networks. This approach provides realistically complex data, allowing users to prototype, evaluate, and compare machine learning algorithms without the usual constraints of patient privacy.\n\n\nThe ART HIV dataset included demographic details and longitudinal clinical data on drug combinations and CD4 counts for nearly 9,000 patients. Common baseline drug regimes included tenofovir disoproxil & emtricitabine (FTC+TDF) and abacavir & lamivudine (3TC+ABC) Several of the teams choose to implement machine learning models to predict future CD4 outcomes based on previous values, demographics and treatment values.",
+    "text": "The data\nThe Antiretroviral Therapy in HIV dataset comprises viral loads, CD4 counts, and drug regimen information for 8,916 patients with HIV. This is a synthetic dataset that has been developed using Generative Adversarial Networks. This approach provides realistically complex data, allowing users to prototype, evaluate, and compare machine learning algorithms without the usual constraints of patient privacy.\n\n\nThe ART HIV dataset included demographic details and longitudinal clinical data on drug combinations and CD4 counts for nearly 9,000 patients. Common baseline drug regimes included tenofovir disoproxil & emtricitabine (FTC+TDF) and abacavir & lamivudine (3TC+ABC) Several of the teams chose to implement machine learning models to predict future CD4 outcomes based on previous values, demographics and treatment values.",
     "crumbs": [
       "Highlights"
     ]
@@ -356,7 +356,7 @@
     "href": "archive/2023-review.html#what-our-students-said",
     "title": "Highlights",
     "section": "What our students said",
-    "text": "What our students said\n\n\n\nBased on your experience at the datathon, would you recommend it to other students?\n\n\n\n\n\n\n\n\n100%\n\n\nDEFINATELY\n\n\n\n\n\n\n\n\nI loved getting to work with really complicated data based on real situations, loved the info sharing sessions and the support given.\n\n\n\n\n\n\n\n\n\n\n\n\nThe open-ended nature of the competition meant that we got to see different uses for the dataset. I got to meet participants from other faculties.\n\n\n\n\n\n\n\n\n\nThe actual competition day itself was very rewarding and also very fun!",
+    "text": "What our students said\n\n\n\nBased on your experience at the datathon, would you recommend it to other students?\n\n\n\n\n\n\n\n\n100%\n\n\nDEFINITELY\n\n\n\n\n\n\n\n\nI loved getting to work with really complicated data based on real situations, loved the info sharing sessions and the support given.\n\n\n\n\n\n\n\n\n\n\n\n\nThe open-ended nature of the competition meant that we got to see different uses for the dataset. I got to meet participants from other faculties.\n\n\n\n\n\n\n\n\n\nThe actual competition day itself was very rewarding and also very fun!",
     "crumbs": [
       "Highlights"
     ]
@@ -643,7 +643,7 @@
     "href": "registration.html#things-to-know",
     "title": "Registration",
     "section": "Things to know",
-    "text": "Things to know\n\n\n\n\n\n\nNote\n\n\n\nIn order to register you are required to download and sign a Data Use Agreement, so we recommend to register on a desktop/laptop.\n\n\n\nRegistration is open to all enroled UNSW students. December graduates can register provided their zID remains active.\nYou can register as a team of up to 5 people or as an individual (enter the team name Individual)\nAll team members must register and sign the DUA.\nTeams should decide on a team name in advance—this is required to register and will be used to link you to your team mates. If registering on your own use the team name Individual to be assigned to a team.\nTeams with only 3-4 members may be paired with other participants to make a team of 5.\n\n\n Register Here →"
+    "text": "Things to know\n\n\n\n\n\n\nNote\n\n\n\nIn order to register you are required to download and sign a Data Use Agreement, so we recommend registering on a desktop/laptop.\n\n\n\nRegistration is open to all enrolled UNSW students. December graduates can register provided their zID remains active.\nYou can register as a team of up to 5 people or as an individual (enter the team name Individual)\nAll team members must register and sign the DUA.\nTeams should decide on a team name in advance—this is required to register and will be used to link you to your team mates. If registering on your own use the team name Individual to be assigned to a team.\nTeams with only 3-4 members may be paired with other participants to make a team of 5.\n\n\n Register Here →"
   },
   {
     "objectID": "registration.html#changes-of-registration",
@@ -664,7 +664,7 @@
     "href": "schedule.html#pre-event-data-release-and-online-information-session-online-only",
     "title": "Schedule",
     "section": "Pre-event: data release and online information session (Online only)",
-    "text": "Pre-event: data release and online information session (Online only)\n\nThursday 3 December, 2026: 3–4pm AEST\n\n\n\n15:00 - 15:10\nWelcome and introductions\n\n\n15:10 - 15:35\nThe Uniting Residential aged Care Data\n\n\n15:35 - 15:45\nDatathon rules and plan for the day\n\n\n15:45 - 16:00\nQuestions"
+    "text": "Pre-event: data release and online information session (Online only)\n\nFriday 4 December, 2026: 4–5pm\n\n\n\n16:00 - 16:10\nWelcome and introductions\n\n\n16:10 - 16:35\nThe Uniting Residential aged Care Data\n\n\n16:35 - 16:45\nDatathon rules and plan for the day\n\n\n16:45 - 17:00\nQuestions"
   },
   {
     "objectID": "schedule.html#datathon-in-person-at-unsw",

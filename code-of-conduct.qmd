@@ -39,7 +39,7 @@ _Senior Lecturer, Centre for Big Data Research in Health, UNSW Sydney_
 
 :::
 
-If an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removal of the individual from the event. Reports of unacceptable behaviour may be communicated to UNSW Sydney.
+If an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removing the individual from the event. Reports of unacceptable behaviour may be communicated to UNSW Sydney.
 
 All efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if the Code of Conduct Response Team deems it necessary for the safety of event attendees, action will be taken, including referral of the report to UNSW Sydney.
 
@@ -48,6 +48,14 @@ This Code of Conduct is designed to ensure that this event can be enjoyed by all
 ::: {.callout-note}
 
 UNSW Sydney students should also be aware of the [Student Code of Conduct](https://www.unsw.edu.au/planning-assurance/conduct-integrity/conduct-unsw/student-conduct-integrity/student-code-conduct) in particular the sections pertaining to plagiarism. If you use code or other intellectual property as part of your datathon submission, the earlier work should be clearly referenced, just as you would do for an assessment.
+
+:::
+
+::: {.callout-warning}
+
+### Use of generative AI (genAI)
+
+While use of genAI is allowed, under no circumstances should you enter or upload any of the datathon data to any genAI tool or service. 
 
 :::
 
