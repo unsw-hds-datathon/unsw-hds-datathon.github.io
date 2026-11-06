@@ -4,7 +4,7 @@ project:
 
 website:
   title: "UNSW Health Data Science Datathon"
-  image: "social-preview.png"
+  image: "social-preview.jpg"
   favicon: images/favicon.ico
   open-graph:
     title: "UNSW Health Data Science Datathon"
