@@ -16,12 +16,6 @@ website:
   repo-url: https://github.com/unsw-hds-datathon
   back-to-top-navigation: true
   page-navigation: true
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "Keep on eye on this page for information about the 2026 Student Health Data Science Datathon"
-    type: primary
-    position: below-navbar
   navbar:
     left:
       - text: "Home"
@@ -82,7 +76,7 @@ website:
       - archive/2023-judging-criteria.qmd
 
   page-footer:
-    center: © UNSW 2025
+    center: © UNSW 2026
 
 format:
   html:
@@ -90,7 +84,6 @@ format:
     link-external-icon: true
     link-external-newwindow: true
     footnotes-hover: true
-    theme: [minty, custom.scss]
 
 
 

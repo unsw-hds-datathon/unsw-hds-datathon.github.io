@@ -1,5 +1,11 @@
 ---
 title: "Judging criteria"
+format:
+  html:
+    title-block-style: none
+    theme: 
+      - spacelab
+      - custom-2026.scss
 ---
 
 Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:

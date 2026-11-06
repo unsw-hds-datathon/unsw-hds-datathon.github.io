@@ -1,0 +1,321 @@
+/*-- scss:functions --*/
+
+
+/*-- scss:defaults --*/
+
+$callout-color-note: #3399f3;
+
+/*-- scss:rules --*/
+
+/*--- CSS ---*/
+
+/* Container to perfectly center the button on the page */
+.btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Base Button Styles */
+.register-btn {
+  /* Layout & Size */
+  display: inline-flex;
+  align-items: center;      /* Vertically centers text and icon */
+  justify-content: center;  /* Horizontally centers text and icon */
+  gap: 10px;                /* Space between text and icon */
+  padding: 16px 36px;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1;           /* Keeps text and icon heights uniform */
+  text-decoration: none;
+
+  /* Coloring & Typography */
+  background-color: #3399f3;
+  color: #ffffff;
+  font-family: system-ui, -apple-system, sans-serif;
+
+  /* Borders & Shaping */
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+
+  /* Depth & Animation */
+  box-shadow: 0 4px 14px rgba(51, 153, 243, 0.3);
+  transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Icon Animation Isolation */
+.register-btn .btn-icon {
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+/* Hover Effects */
+.register-btn:hover {
+  background-color: #1b85e4;
+  transform: translateY(-2px); /* Subtle lift */
+  box-shadow: 0 6px 20px rgba(51, 153, 243, 0.4);
+}
+
+/* Icon Slide Interaction on Hover */
+.register-btn:hover .btn-icon {
+  transform: translateX(4px); /* Moves arrow slightly right */
+}
+
+/* Click/Active Feedback */
+.register-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 3px 10px rgba(51, 153, 243, 0.3);
+}
+
+
+
+/* Default narrative text (matches YAML defaults) */
+.narrative {
+  max-width: 80%;
+  margin: 1% auto;
+  font-size: 2rem; /* base font size */
+}
+
+
+.bios {
+display: flex;
+gap: 1.25rem;
+flex-wrap: wrap;
+align-items: stretch;
+}
+
+
+.bio-card {
+flex: 1 1 340px;
+display: flex;
+gap: 1rem;
+align-items: top;
+background: var(--q-body-background, #ffffff);
+border-radius: 12px;
+padding: 1rem;
+box-shadow: 0 6px 18px rgba(20,24,40,0.06);
+border: 1px solid rgba(20,24,40,0.04);
+}
+
+
+.headshot {
+width: 96px;
+height: 96px;
+border-radius: 50%;
+object-fit: cover;
+flex: 0 0 96px;
+border: 3px solid rgba(79,70,229,0.12);
+box-shadow: 0 4px 10px rgba(20,24,40,0.06);
+}
+
+
+.bio-content {
+display: flex;
+flex-direction: column;
+gap: 0.35rem;
+}
+
+
+.bio-name {
+margin: 0;
+font-size: 1.05rem;
+font-weight: 700;
+line-height: 1.1;
+}
+
+
+.bio-role {
+margin: 0;
+font-size: 0.92rem;
+color: rgba(20,24,40,0.6);
+}
+
+
+.bio-text {
+margin-top: 0.35rem;
+margin-bottom: 0.5rem;
+font-size: 0.95rem;
+color: rgba(20,24,40,0.8);
+}
+
+
+.email-link {
+display: inline-flex;
+align-items: center;
+gap: 0.5rem;
+text-decoration: none;
+font-weight: 600;
+color: var(--q-link-color, $primary);
+}
+
+
+.email-link:hover {
+text-decoration: underline;
+}
+
+
+
+/* --- MOBILE RESPONSIVE RULES --- */
+@media (max-width: 768px) {
+
+  .narrative-col {
+    width: 100% !important;       /* wider than default */
+      max-width: 100% !important;   /* don’t exceed screen */
+      margin: 0px auto;
+  }
+
+  .narrative-col p {
+    font-size: 1.2rem;
+    background-color: rgba(0, 0, 0, 0.45);
+    width: 100%;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+
+  .info-button {
+    font-size: 0.8rem;
+  }
+
+  .register-button {
+    font-size: 0.8rem;
+  }
+
+
+
+.bio-card { align-items: flex-start; }
+
+.email-link {font-size: 0.6rem;}
+
+.headshot { width: 72px; height: 72px; flex: 0 0 72px; }
+
+}
+
+.quote-block {
+  position: relative;
+  font-size: 1rem;          /* normal text size */
+  line-height: 1.5;
+  font-style: italic;
+  color: #333;
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+.quote-block::before {
+  content: '“';              /* opening quotation mark */
+  font-size: 3rem;           /* make it huge */
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #9b3c6e;            /* standout color */
+  position: absolute;
+  left: -1rem;             /* adjust horizontal position */
+  top: -0.5rem;              /* adjust vertical alignment */
+  line-height: 1;
+}
+
+
+.event-hero {
+  min-height: 430px;
+  display: flex;
+  align-items: center;
+  padding: clamp(2rem, 6vw, 5rem);
+  color: #fff;
+  background:
+    linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.56) 52%, rgba(0, 0, 0, 0.12) 100%),
+    url("images/Datathon2025_UNSW_Credit_CassandraHannagan-48-resized.jpg") center 45% / cover no-repeat;
+  border-radius: 0.75rem;
+}
+
+.event-hero__content {
+  max-width: 680px;
+}
+
+.event-hero__eyebrow {
+  margin: 0 0 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.event-hero h1 {
+  margin: 0;
+  color: #fff;
+  font-size: clamp(2.2rem, 5vw, 4rem);
+  line-height: 1.08;
+}
+
+.event-hero__description {
+  max-width: 56ch;
+  margin: 1rem 0;
+  font-size: 1.15rem;
+}
+
+.event-hero__details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 2rem;
+  margin: 1.5rem 0;
+}
+
+.event-hero__details p {
+  margin: 0;
+}
+
+.event-hero__details strong {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.event-hero__button {
+  display: inline-block;
+  padding: 0.8rem 1.2rem;
+  border-radius: 0.35rem;
+  background: #fff;
+  color: #17202a;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.event-hero__button:hover,
+.event-hero__button:focus-visible {
+  background: #e8eef5;
+  color: #111;
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .event-hero {
+    min-height: 520px;
+    align-items: flex-end;
+    padding: 1.5rem;
+    background:
+      linear-gradient(0deg, rgba(0, 0, 0, 0.88) 0%, rgba(0, 0, 0, 0.58) 58%, rgba(0, 0, 0, 0.12) 100%),
+      url("images/Datathon2025_UNSW_Credit_CassandraHannagan-48-resized.jpg") center / cover no-repeat;
+  }
+
+  .event-hero__details {
+    display: block;
+  }
+
+  .event-hero__details p + p {
+    margin-top: 0.75rem;
+  }
+}
+
+
+
+.oscar {
+  color: $body-bg;
+}
+
+.oscar > h2 {
+  color: $body-bg;
+}
+
+.oscar > p {
+  color: $body-bg;
+}

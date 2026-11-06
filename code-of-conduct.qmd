@@ -1,8 +1,14 @@
 ---
 title: "Code of Conduct"
+format:
+  html:
+    title-block-style: none
+    theme: 
+      - spacelab
+      - custom-2026.scss
 ---
 
-::: {.callout-tip}
+::: {.callout-note}
 
 This code of conduct has been adapted from the Statistical Society of Australia (SSA) Code of Conduct [template](https://www.statsoc.org.au/CodeOfConductTemplate/). 
 
@@ -19,7 +25,7 @@ The organisers of the UNSW Health Data Science Datathon are committed to providi
 
 To report violations of this Code of Conduct, alert a member of the Response Team (names and contact details listed below). Reports may be made by people subject to, or witnesses of, unacceptable behaviour.
 
-::: {.callout-tip}
+::: {.callout-note}
 ## Code of Conduct Response Team
 
 #### Dr Sanja Lujic
@@ -39,7 +45,7 @@ All efforts will be made to protect the anonymity of persons reporting violation
 
 This Code of Conduct is designed to ensure that this event can be enjoyed by all participants. We hope you have an inspiring and enjoyable time.
 
-::: {.callout-tip}
+::: {.callout-note}
 
 UNSW Sydney students should also be aware of the [Student Code of Conduct](https://www.unsw.edu.au/planning-assurance/conduct-integrity/conduct-unsw/student-conduct-integrity/student-code-conduct) in particular the sections pertaining to plagiarism. If you use code or other intellectual property as part of your datathon submission, the earlier work should be clearly referenced, just as you would do for an assessment.
 

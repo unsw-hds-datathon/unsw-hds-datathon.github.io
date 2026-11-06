@@ -1,36 +1,33 @@
 ---
 title: "About the data"
+format:
+  html:
+    title-block-style: none
+    theme: 
+      - spacelab
+      - custom-2026.scss
 ---
 
-![](images/ANZHFR-removebg-2048x570.png)
+![](images/uniting-logo.jpg)
 
-This year's datathon will use synthetic data from the Australian and New Zealand Hip Fracture Registry. This data resource can be used to address important health questions that will require you to develop statistical or machine learning models of patient outcomes, visualise patient data, or build front end applications to explore or summarise the data.  
+This year's datathon will use data from <span style="font-weight:600; color: #9b3c6e;">Uniting</span>, Australian's largest not-for-profit aged care network,   
 
-## The Problem
+## The Context
 
-::: {.quote-block}
-
-The risk of falls and fractures increases with age. Each year, approximately **19,000 patients in Australia and 4,000 patients in New Zealand** present with a new hip fracture. These presentations are projected to increase in the foreseeable future, as are the associated costs to individual patients, their families, the community and the healthcare system.
-
-:::
+<span style="font-weight:600; color: #9b3c6e;">Uniting</span> support almost 8,000 seniors across Residential Aged Care homes across NSW and the ACT. These facilities are assessed for quality and compliance through a rigorous national regulatory framework managed by the [Aged Care Quality and Safety Commission (ACQSC)](https://www.agedcarequality.gov.au/). The ACQSC monitors homes through a continuous accreditation cycle that includes site audits, unnanounced visits and assessment grading via the Star Rating System.
 
 
+## The Star Rating System
+
+Assessment outcomes are integrated into a 1 to 5 Star Rating published transparently on the federal government's [My Aged Care Find a Provider](https://www.myagedcare.gov.au/) portal. The rating is determined by four key categories:
+
+* **Compliance** (30% weight): Calculated daily based on the home's performance in recent ACQSC audits and any active regulatory decisions.
+* **Residents’ Experience** (33% weight): Derived from independent, annual consumer satisfaction surveys filled out by the residents themselves.
+* **Staffing** (22% weight): Measures whether the home meets its mandated targets for care minutes provided by Registered Nurses, enrolled nurses, and personal care assistants.
+* **Quality Measures** (15% weight): Evaluates clinical data submitted quarterly regarding indicators like pressure injuries, physical restrictive practices, unplanned weight loss, falls, and medication management.
 
 
-## The Registry
+## The Challenge
 
-::: {.quote-block}
+Using historical data, your team must develop and validate an early warning system forecasting homes with low star ratings. You will have access to rich information including clinical outcomes, customer surveys, operational metrics and workforce indicators. The challenge is how to combine this information to predict poor Star outcomes. Your solution will also need to be transparent and explainable to stakeholders.     
 
-The Australian and New Zealand Hip Fracture Registry (ANZHFR) is a clinical quality registry that collects data about older people admitted to hospital with a broken hip in Australia and New Zealand. The registry is managed by a group clinicians and experts in the field with representation from a number of key professional organisations.
-
-:::
-
-## Purpose
-
-::: {.quote-block}
-
-The ANZHFR is designed to allow hospitals to audit the care they provide against key markers of safe, high quality care. The data can then be used to improve clinical performance, examine national trends, advocate for better clinical care and ultimately optimise patient outcomes
-
-:::
-
-_source: [anzhfr.org](https://anzhfr.org/)_

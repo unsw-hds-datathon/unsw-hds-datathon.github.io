@@ -1,5 +1,11 @@
 ---
 title: "Organisers"
+format:
+  html:
+    title-block-style: none
+    theme: 
+      - spacelab
+      - custom-2026.scss
 ---
 
 ![](images/Landscape__1.Col_Pos_CBDRH.png)

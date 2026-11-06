@@ -1,8 +1,14 @@
 ---
 title: "Schedule"
+format:
+  html:
+    title-block-style: none
+    theme: 
+      - spacelab
+      - custom-2026.scss
 ---
 
-::: {.callout-tip}
+::: {.callout-note}
 ## Note
 
 The schedule is subject to change. A Microsoft Teams Meeting link will be circulated in advance of the information session.
@@ -11,18 +17,18 @@ The schedule is subject to change. A Microsoft Teams Meeting link will be circul
 
 ## Pre-event: data release and online information session (Online only)
 
-#### *Friday 5 December, 2025: 15:00 - 16:00 AEST*
+#### *Friday 4 December, 2026: 15:00 - 16:00 AEST*
 
 |     |     |
 |--|-----|
 | 15:00 - 15:10    | Welcome and introductions   |
-| 15:10 - 15:35    | The Australia and New Zealand Hip Fracture Registry Data |
+| 15:10 - 15:35    | The Uniting Residential aged Care Data |
 | 15:35 - 15:45    | Datathon rules and plan for the day |
 | 15:45 - 16:00    | Questions  |
 
 ## Datathon (In-person at UNSW)
 
-#### *Day 1: Thursday 11 December 2025*
+#### *Day 1: Thursday 10 December 2026*
 
 |  |     |
 |--|-----|
@@ -34,7 +40,7 @@ The schedule is subject to change. A Microsoft Teams Meeting link will be circul
 
 <br>
 
-#### *Day 2: Friday 12 December 2025*
+#### *Day 2: Friday 11 December 2026*
 
 |  |     |
 |--|-----|

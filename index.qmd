@@ -1,112 +1,86 @@
 ---
 format:
-  closeread-html:
-    remove-header-space: true
-    cr-style:
-      narrative-text-color-overlay: "#a3a3a3"
-      section-background-color: black
-      narrative-background-color-overlay: transparent
-      narrative-overlay-max-width: '60%'
-      narrative-outer-margin: '1%'
-    theme: [minty, custom.scss]
+  html:
+    title-block-style: none
+    theme: 
+      - spacelab
+      - custom-2026.scss
 ---
 
+<section class="event-hero" aria-labelledby="event-title">
 
-::: {.column-screen }
+<div class="event-hero__content">
+<p class="event-hero__eyebrow">Upcoming event</p>
+<h1 id="event-title">UNSW Health Data Science Datathon</h1>
 
-```{=html}
+<p class="event-hero__description">
+  Use your data and coding skills to solve real-world health challenges. 
+</p>
 
-<div class="video-container">
+<div class="event-hero__details">
+  <p><strong>Date</strong> Thu 10 - Fri 11 Dec</p>
+  <p><strong>Location</strong> Health Translation Hub, UNSW Sydney</p>
+</div>
 
-  <video autoplay loop muted playsinline width="100%">
-    <source src="images/AdobeStock_1634046525_trim3.mp4" type="video/mp4">
-  </video>
-
-  <div class="video-overlay">
-    <h2>UNSW Health Data Science Datathon</h2>
-    <p>Thursday 11 – Friday 12 December 2025</p>
-    <div class="button-group">
-      <a href="#the-unsw-health-data-science-datathon" class="info-button">
-        <i class="bi bi-info-circle"></i> Details
-      </a>
-      <a href="registration.qmd" class="register-button">
-        <i class="bi bi-person-plus"></i> Register
-      </a>
-    </div>
-  </div>
-  
-  
-  <div class="scroll-indicator">
-    <span class="arrow"></span>
-  </div>
+<a class="event-hero__button"
+href="/#registration">
+  Register now
+</a>
 
 </div>
 
-```
-:::
+</section>
+
+## What is it?
+
+A two-day datathon where teams will work together to analyse real-world infectious disease monitoring data. Participants will develop a full data science pipeline with prizes awarded for the best submission. 
+
+## When is it?
+
+-   **Friday 4 December**, 3pm-4pm: Online introductory session
+<div style = "font-size: 0.8em; font-weight:100;">
+_Recordings will be made available for people who can't make this session, although attendance is strongly encouraged_
+</div>
+
+- **Thursday 10th and Friday 11th December**, 9AM--5PM: Main event
 
 
-::::: {.cr-section layout="overlay-left"}
+## Who can participate?
 
-Each year, approximately 19,000 patients in Australia and 4,000 patients in New Zealand present with a new hip fracture @cr-image1
-
-These presentations are expected to increase in the foreseeable future, as our populations age
-
-When patients are admitted to hospital with a broken hip they are entered into the Australian and New Zealand Hip Fracture Registry (ANZHFR)
-
-The ANZHFR data can then be used to improve clinical performance, examine national trends, advocate for better clinical care and ultimately optimise patient outcomes
-
-
-::: {#cr-image1}
-![](images/AdobeStock_280347585.jpeg)
-:::
-
-:::::
-
-:::::: {.column-screen}
-
-![](images/LoRes2023/Datathon_UNSW_Credit_CassandraHannagan-42.jpg)
-
-::::::
-
-
-## The UNSW Health Data Science Datathon
-
-A two-day datathon where teams will work together to analyse real-world hip fracture data. Participants will develop a full data science pipeline with prizes awarded for the best submission. 
-
-### Key Details
-
-#### When is it? 
-Thursday 11 - Friday 12 December 2025. Check out the [schedule](schedule.html) for more details
-
-#### Where is it
-[UNSW Health Translation Hub](https://www.unsw.edu.au/precincts/rhip/hth) located on the corner of High Street and Botany Street Randwick
-
-#### Who can participate?
 * UNSW students interested in analysing health data.
-* Enrol as a team of 4 or as an individual to be placed in a team. 
+* Enrol as a team of 5 or register individually to be placed on a team.
 
-#### What skills do I need?
+## Is it online or in-person?
 
-The approach to the datathon challenge is open ended---you could be working on a sophisticated prediction model, a patient-facing dashboard, or data-cleaning pipeline. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.
+The event will be in-person at the [UNSW Health Translation Hub](https://www.unsw.edu.au/precincts/rhip/hth).
 
-#### The data
+## What skills do I need?
 
-Participants will analyse data from the Australian and New Zealand Hip Fracture Registry (ANZHFR). Check out the [data](data.html) page for more details. 
+The approach to the datathon challenge is open ended---it could be a sophisticated predictive machine learning model or a simple data summary. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.
 
-#### The prizes
+## The data
 
-Top ranked teams will share in over $1,500 in prizes. 
+Participants will analyse real-world data on residential aged care quality from [Uniting](https://www.uniting.org), an Australian non-for-profit providing care and support through every life stage. Check out the [Data](/data.qmd) page for more information. 
 
+## The datathon
 
-#### Registration
+### Pre-event: data release and online information session (Friday 4th December)
 
-Register online [here](https://forms.office.com/r/0aZ8vhheDM). All team members **must** register. Register as a team of 4 or enter the team name **Individual** to enrol individually and be placed in a team. 
+This is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential analytic strategies.   
 
+### The main event (Thursday 10th and Friday 11th December)
 
-#### Contact
+You will work with your team to develop and implement a data science pipeline to analyse Uniting's residential aged care quality data. There is no restriction on choice of software or analytic approach. At the end of the second day, each team will present their solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts.
 
-For questions, information or accessibility queries, please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a> from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the [registration form](https://forms.office.com/r/0aZ8vhheDM). 
+Lunch and morning tea and coffee will be provided. Dietary requirements can be noted in the registration form. 
+
+## Registration
+
+Visit the [registration page](registration.qmd) for details about registration.
+
+## Contact
+
+For questions, information or accessibility queries please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a> from the Center for Big Data Research in Health, UNSW. Accessibility requirements can be noted during registration. 
 
 ::: {.oscar}
 
@@ -116,10 +90,4 @@ For questions, information or accessibility queries, please contact <a href="mai
 * Patatas Bravas
 * Helados
 :::
-
-
-
-
-
-
 
