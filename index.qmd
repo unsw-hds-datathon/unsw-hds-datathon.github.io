@@ -60,7 +60,7 @@ The approach to the datathon challenge is open ended---it could be a sophisticat
 
 ## The data
 
-Participants will analyse real-world data on residential aged care quality from [Uniting](https://www.uniting.org), an Australian non-for-profit providing care and support through every life stage. Check out the [Data](/data.qmd) page for more information. 
+Participants will analyse deidentified real-world data on residential aged care quality from [Uniting](https://www.uniting.org), an Australian non-for-profit providing care and support through every life stage. Check out the [Data](/data.qmd) page for more information. 
 
 ## The datathon
 

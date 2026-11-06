@@ -16,7 +16,7 @@ The CBDRH is Australia’s first research centre dedicated to health research us
 
 ### Study with us
 
-Our health data science programs are delivered by an interdisciplinary team of staff, who have world-leading expertise in managing, manipulating, analysing and visualising big data. Learn more about our post-graduate taught programs and research opportunities [here](https://www.unsw.edu.au/medicine-health/study-with-us/study-areas/health-data-science).
+Want to learn more? [Study with us!](https://www.unsw.edu.au/medicine-health/study-with-us/study-areas/health-data-science) Our health data science programs are delivered by an interdisciplinary team of staff, who have world-leading expertise in managing, manipulating, analysing and visualising big data. Learn more about our post-graduate taught programs and research opportunities [here](https://www.unsw.edu.au/medicine-health/study-with-us/study-areas/health-data-science).
 
 ### Datathon organisers
 
