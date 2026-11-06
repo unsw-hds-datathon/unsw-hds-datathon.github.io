@@ -10,7 +10,7 @@ format:
 
 ![](images/uniting-logo.jpg)
 
-This year's datathon will use data from <span style="font-weight:600; color: #9b3c6e;">Uniting</span>, Australian's largest not-for-profit aged care network,   
+This year's datathon will use data from <span style="font-weight:600; color: #9b3c6e;">Uniting</span>, Australian's largest not-for-profit aged care network.   
 
 ## The Context
 

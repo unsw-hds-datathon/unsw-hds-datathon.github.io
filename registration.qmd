@@ -37,9 +37,9 @@ In order to register you are required to download and sign a [Data Use Agreement
 
 If one or more team members can no longer attend you can either:
 
-(i) **Swap** out with a new member. The new team member **must** fill in the registration form. The departing team member should email the organisers at [m.hanly@unsw.edu.au](malto:m.hanly@unsw.edu.au) to withdraw. 
+(i) **Swap** out with a new member. The new team member **must** fill in the registration form. The departing team member should email the organisers at [m.hanly@unsw.edu.au](mailto:m.hanly@unsw.edu.au) to withdraw. 
 
-(ii) **Withdraw** the entire team from the datathon. Email the organisers at [m.hanly@unsw.edu.au](malto:m.hanly@unsw.edu.au) to withdraw all team members. 
+(ii) **Withdraw** the entire team from the datathon. Email the organisers at [m.hanly@unsw.edu.au](mailto:m.hanly@unsw.edu.au) to withdraw all team members. 
 
 
 
